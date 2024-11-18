@@ -1,0 +1,2862 @@
+Order Date,Category,Sales
+03/01/2014,Office Supplies,16.448
+04/01/2014,Office Supplies,288.06
+05/01/2014,Office Supplies,19.536
+06/01/2014,Furniture,2573.82
+06/01/2014,Office Supplies,685.34
+06/01/2014,Technology,1147.94
+07/01/2014,Furniture,76.728
+07/01/2014,Office Supplies,10.43
+09/01/2014,Office Supplies,9.344
+09/01/2014,Technology,31.2
+10/01/2014,Furniture,51.94
+10/01/2014,Office Supplies,2.89
+11/01/2014,Furniture,9.94
+13/01/2014,Furniture,879.9390000000001
+13/01/2014,Office Supplies,2027.116
+13/01/2014,Technology,646.74
+14/01/2014,Furniture,61.96
+15/01/2014,Technology,149.95
+16/01/2014,Furniture,127.104
+16/01/2014,Office Supplies,48.66
+16/01/2014,Technology,124.2
+18/01/2014,Office Supplies,64.864
+19/01/2014,Furniture,181.47
+19/01/2014,Office Supplies,197.124
+20/01/2014,Furniture,1413.51
+20/01/2014,Office Supplies,560.4300000000001
+20/01/2014,Technology,699.93
+21/01/2014,Furniture,25.248
+23/01/2014,Office Supplies,46.019999999999996
+26/01/2014,Furniture,217.2
+26/01/2014,Office Supplies,536.72
+26/01/2014,Technology,343.33
+27/01/2014,Furniture,333
+27/01/2014,Office Supplies,93.66999999999999
+28/01/2014,Office Supplies,3.928
+30/01/2014,Office Supplies,240.5
+31/01/2014,Furniture,290.666
+01/02/2014,Technology,468.9
+02/02/2014,Office Supplies,30.686
+02/02/2014,Technology,180.96
+03/02/2014,Office Supplies,97.11200000000001
+04/02/2014,Office Supplies,134.38400000000001
+06/02/2014,Office Supplies,23.951999999999998
+06/02/2014,Technology,306.56
+07/02/2014,Office Supplies,64.96
+07/02/2014,Technology,115.36
+08/02/2014,Furniture,14.56
+11/02/2014,Furniture,1650.05
+11/02/2014,Office Supplies,158.89999999999998
+11/02/2014,Technology,234.45
+12/02/2014,Furniture,129.568
+14/02/2014,Office Supplies,336.756
+14/02/2014,Technology,239.97
+15/02/2014,Office Supplies,21.36
+16/02/2014,Office Supplies,9.04
+17/02/2014,Office Supplies,54.208
+18/02/2014,Furniture,25.16
+18/02/2014,Office Supplies,12.624
+20/02/2014,Furniture,20.32
+20/02/2014,Office Supplies,12.96
+20/02/2014,Technology,62.31
+21/02/2014,Office Supplies,8.85
+22/02/2014,Office Supplies,19.44
+23/02/2014,Office Supplies,11.364
+24/02/2014,Office Supplies,55.672
+27/02/2014,Office Supplies,19.456
+01/03/2014,Furniture,1893.995
+01/03/2014,Office Supplies,303.216
+01/03/2014,Technology,5.94
+02/03/2014,Office Supplies,51.184
+02/03/2014,Technology,151.2
+03/03/2014,Furniture,928.8019999999999
+03/03/2014,Office Supplies,407.1
+03/03/2014,Technology,9.99
+04/03/2014,Office Supplies,370.452
+05/03/2014,Office Supplies,225.59199999999998
+05/03/2014,Technology,479.97
+07/03/2014,Furniture,966.9839999999999
+07/03/2014,Office Supplies,594.078
+10/03/2014,Office Supplies,741.956
+11/03/2014,Furniture,8.32
+11/03/2014,Office Supplies,289.064
+11/03/2014,Technology,620.9300000000001
+14/03/2014,Furniture,1139.92
+14/03/2014,Office Supplies,310.91999999999996
+14/03/2014,Technology,657.7099999999999
+15/03/2014,Furniture,45.696
+15/03/2014,Office Supplies,325.086
+16/03/2014,Technology,471.92
+17/03/2014,Furniture,3265.23
+17/03/2014,Office Supplies,695.1279999999999
+18/03/2014,Furniture,1462.4499999999998
+18/03/2014,Office Supplies,1904.518
+18/03/2014,Technology,24739.748
+19/03/2014,Furniture,25.008
+19/03/2014,Office Supplies,71.538
+19/03/2014,Technology,494.216
+21/03/2014,Furniture,251.328
+21/03/2014,Office Supplies,358.558
+21/03/2014,Technology,3499.93
+22/03/2014,Furniture,314.352
+22/03/2014,Office Supplies,149.741
+23/03/2014,Office Supplies,340.31199999999995
+23/03/2014,Technology,604.752
+24/03/2014,Furniture,40.48
+24/03/2014,Office Supplies,24.9
+25/03/2014,Furniture,366.786
+25/03/2014,Office Supplies,46.879999999999995
+25/03/2014,Technology,45.48
+26/03/2014,Office Supplies,50.046
+26/03/2014,Technology,95.084
+28/03/2014,Furniture,1515.308
+28/03/2014,Office Supplies,6.12
+28/03/2014,Technology,302.376
+29/03/2014,Furniture,890.841
+30/03/2014,Furniture,332.968
+30/03/2014,Office Supplies,585.4100000000001
+30/03/2014,Technology,251.944
+31/03/2014,Furniture,1125.488
+31/03/2014,Office Supplies,754.0799999999999
+31/03/2014,Technology,79.984
+01/04/2014,Office Supplies,119.88799999999999
+02/04/2014,Furniture,177.68
+02/04/2014,Office Supplies,230.948
+02/04/2014,Technology,1049.93
+03/04/2014,Office Supplies,11.16
+03/04/2014,Technology,222.29
+04/04/2014,Furniture,5.47
+04/04/2014,Office Supplies,370.394
+04/04/2014,Technology,99.98
+05/04/2014,Office Supplies,5266.108
+05/04/2014,Technology,28.99
+06/04/2014,Furniture,933.384
+06/04/2014,Office Supplies,266.652
+06/04/2014,Technology,450.654
+07/04/2014,Furniture,8.96
+07/04/2014,Office Supplies,181.29
+07/04/2014,Technology,830.9200000000001
+08/04/2014,Furniture,1487.622
+08/04/2014,Office Supplies,71.168
+08/04/2014,Technology,399.96
+11/04/2014,Office Supplies,113.94399999999999
+11/04/2014,Technology,1801.2959999999998
+12/04/2014,Furniture,308.499
+12/04/2014,Office Supplies,90.168
+12/04/2014,Technology,1513.456
+13/04/2014,Office Supplies,566.648
+13/04/2014,Technology,71.928
+15/04/2014,Furniture,187.76
+15/04/2014,Office Supplies,106.96
+16/04/2014,Office Supplies,39.072
+18/04/2014,Furniture,317.058
+18/04/2014,Office Supplies,187.53
+18/04/2014,Technology,515.944
+19/04/2014,Furniture,76.14
+19/04/2014,Office Supplies,129.32999999999998
+20/04/2014,Furniture,1205.61
+20/04/2014,Office Supplies,44.84
+21/04/2014,Office Supplies,845.36
+22/04/2014,Office Supplies,257.752
+23/04/2014,Furniture,585.08
+23/04/2014,Office Supplies,58.9
+25/04/2014,Furniture,1790.29
+25/04/2014,Office Supplies,287.32800000000003
+25/04/2014,Technology,302.376
+26/04/2014,Furniture,230.28
+26/04/2014,Office Supplies,52.288
+28/04/2014,Office Supplies,738.5360000000001
+28/04/2014,Technology,1839.94
+29/04/2014,Furniture,631.0039999999999
+29/04/2014,Office Supplies,117.86
+29/04/2014,Technology,19.98
+30/04/2014,Office Supplies,1000.95
+30/04/2014,Technology,47.79
+02/05/2014,Office Supplies,26.136
+02/05/2014,Technology,479.984
+03/05/2014,Office Supplies,72.632
+04/05/2014,Furniture,39.64
+04/05/2014,Office Supplies,147.792
+05/05/2014,Furniture,127.869
+05/05/2014,Office Supplies,133.108
+06/05/2014,Office Supplies,254.456
+07/05/2014,Furniture,1066.5700000000002
+07/05/2014,Office Supplies,24.78
+08/05/2014,Technology,1799.97
+09/05/2014,Office Supplies,158.70999999999998
+09/05/2014,Technology,235.76999999999998
+10/05/2014,Furniture,606.749
+10/05/2014,Office Supplies,261.45
+10/05/2014,Technology,1475.6
+11/05/2014,Furniture,1279.0720000000001
+11/05/2014,Office Supplies,157.962
+11/05/2014,Technology,205.768
+12/05/2014,Furniture,734.846
+13/05/2014,Furniture,279.456
+13/05/2014,Office Supplies,468.95599999999996
+13/05/2014,Technology,149.97
+14/05/2014,Furniture,310.88
+16/05/2014,Furniture,232.88
+16/05/2014,Technology,56.4
+17/05/2014,Office Supplies,91.68
+18/05/2014,Furniture,149.232
+18/05/2014,Office Supplies,19.92
+18/05/2014,Technology,779.796
+19/05/2014,Office Supplies,91.62
+20/05/2014,Furniture,150.192
+20/05/2014,Office Supplies,149.128
+20/05/2014,Technology,20.784
+21/05/2014,Furniture,107.772
+21/05/2014,Office Supplies,3538.586
+21/05/2014,Technology,617.97
+22/05/2014,Technology,180.93
+23/05/2014,Office Supplies,268.57
+23/05/2014,Technology,55.188
+24/05/2014,Office Supplies,116.28
+25/05/2014,Furniture,29.32
+25/05/2014,Office Supplies,90.22
+26/05/2014,Furniture,875.7339999999999
+26/05/2014,Office Supplies,164.416
+26/05/2014,Technology,285.568
+27/05/2014,Furniture,567.12
+27/05/2014,Office Supplies,376.78
+27/05/2014,Technology,1213.494
+28/05/2014,Office Supplies,136.96
+28/05/2014,Technology,85.00800000000001
+30/05/2014,Furniture,355.455
+30/05/2014,Office Supplies,385.48199999999997
+30/05/2014,Technology,1183.976
+31/05/2014,Technology,773.7
+01/06/2014,Furniture,2024.06
+01/06/2014,Office Supplies,2282.5299999999997
+01/06/2014,Technology,881.93
+02/06/2014,Furniture,73.32
+02/06/2014,Office Supplies,425.308
+02/06/2014,Technology,239.97
+03/06/2014,Furniture,577.424
+03/06/2014,Office Supplies,163.912
+04/06/2014,Furniture,424.48799999999994
+04/06/2014,Office Supplies,31.784
+06/06/2014,Furniture,991.764
+06/06/2014,Office Supplies,382.237
+07/06/2014,Furniture,268.935
+07/06/2014,Office Supplies,12.462
+08/06/2014,Furniture,755.904
+08/06/2014,Office Supplies,1745.3600000000001
+09/06/2014,Furniture,3233.7439999999997
+09/06/2014,Office Supplies,338.712
+09/06/2014,Technology,1890.5520000000001
+10/06/2014,Office Supplies,491.55
+13/06/2014,Office Supplies,14.52
+14/06/2014,Furniture,212.94
+15/06/2014,Furniture,897.862
+15/06/2014,Office Supplies,45.111999999999995
+16/06/2014,Furniture,647.84
+16/06/2014,Office Supplies,115.952
+17/06/2014,Furniture,6.24
+17/06/2014,Office Supplies,3346.2920000000004
+17/06/2014,Technology,65.97
+18/06/2014,Technology,139.8
+20/06/2014,Furniture,193.0656
+20/06/2014,Office Supplies,1015.5
+20/06/2014,Technology,620.384
+21/06/2014,Furniture,107.994
+21/06/2014,Office Supplies,255.92000000000002
+21/06/2014,Technology,3743.529
+22/06/2014,Furniture,1023.9879999999999
+22/06/2014,Office Supplies,671.976
+22/06/2014,Technology,279.534
+23/06/2014,Office Supplies,23.119999999999997
+23/06/2014,Technology,86.376
+24/06/2014,Furniture,4.272
+25/06/2014,Furniture,447.84
+25/06/2014,Office Supplies,80.96000000000001
+25/06/2014,Technology,263.96
+27/06/2014,Furniture,85.98
+27/06/2014,Office Supplies,306.2
+27/06/2014,Technology,223.96
+28/06/2014,Furniture,1228.465
+28/06/2014,Office Supplies,417.32599999999996
+29/06/2014,Office Supplies,46.68
+30/06/2014,Office Supplies,739.624
+01/07/2014,Office Supplies,25.104000000000003
+01/07/2014,Technology,575.92
+02/07/2014,Office Supplies,5.58
+02/07/2014,Technology,73.98
+04/07/2014,Office Supplies,247.40800000000002
+05/07/2014,Furniture,232.73600000000002
+05/07/2014,Office Supplies,731.398
+05/07/2014,Technology,479.97
+06/07/2014,Furniture,478.48
+06/07/2014,Technology,559.992
+07/07/2014,Furniture,241.19400000000002
+08/07/2014,Furniture,566.37
+08/07/2014,Office Supplies,196.704
+09/07/2014,Furniture,119.833
+09/07/2014,Office Supplies,145.688
+11/07/2014,Furniture,979.0500000000001
+11/07/2014,Office Supplies,269.368
+11/07/2014,Technology,938.788
+12/07/2014,Furniture,1333.846
+12/07/2014,Office Supplies,346.39
+12/07/2014,Technology,279.776
+13/07/2014,Furniture,351.216
+14/07/2014,Furniture,31.984
+14/07/2014,Office Supplies,184.856
+14/07/2014,Technology,75.75399999999999
+15/07/2014,Office Supplies,6.54
+15/07/2014,Technology,2.97
+18/07/2014,Furniture,259.136
+18/07/2014,Office Supplies,13.904
+19/07/2014,Furniture,70.56
+19/07/2014,Office Supplies,30.786
+19/07/2014,Technology,359.98
+20/07/2014,Furniture,1041.132
+20/07/2014,Office Supplies,1202.714
+20/07/2014,Technology,41.94
+21/07/2014,Furniture,1732.346
+21/07/2014,Office Supplies,193.156
+21/07/2014,Technology,35.98
+22/07/2014,Furniture,888.072
+22/07/2014,Office Supplies,300.292
+22/07/2014,Technology,159.98
+23/07/2014,Office Supplies,58.1
+23/07/2014,Technology,2555.084
+25/07/2014,Furniture,77.92
+25/07/2014,Office Supplies,8263.369999999999
+26/07/2014,Furniture,919.448
+26/07/2014,Office Supplies,2494.526
+26/07/2014,Technology,1626.02
+27/07/2014,Office Supplies,342.05999999999995
+27/07/2014,Technology,238
+28/07/2014,Furniture,129.888
+28/07/2014,Office Supplies,63.264
+30/07/2014,Furniture,1367.84
+01/08/2014,Furniture,44.128
+01/08/2014,Office Supplies,184.2
+02/08/2014,Office Supplies,865.08
+02/08/2014,Technology,21.2
+03/08/2014,Furniture,218.75
+03/08/2014,Office Supplies,259.244
+04/08/2014,Office Supplies,2087.774
+04/08/2014,Technology,655.38
+05/08/2014,Furniture,1962.724
+05/08/2014,Office Supplies,293.65
+05/08/2014,Technology,152.35000000000002
+06/08/2014,Technology,262.89
+08/08/2014,Furniture,658.472
+08/08/2014,Office Supplies,705.275
+08/08/2014,Technology,2591.882
+09/08/2014,Office Supplies,2116.965
+09/08/2014,Technology,1488.7199999999998
+11/08/2014,Furniture,12.35
+11/08/2014,Office Supplies,439.27
+12/08/2014,Furniture,85.44
+12/08/2014,Office Supplies,509.066
+12/08/2014,Technology,1237.874
+15/08/2014,Furniture,195.136
+15/08/2014,Office Supplies,647.646
+16/08/2014,Furniture,853.092
+17/08/2014,Office Supplies,160.382
+17/08/2014,Technology,339.96
+19/08/2014,Furniture,928.0600000000001
+19/08/2014,Office Supplies,511.04600000000005
+20/08/2014,Furniture,921.6120000000001
+20/08/2014,Office Supplies,917.11
+22/08/2014,Office Supplies,23.104
+23/08/2014,Furniture,4.224
+23/08/2014,Office Supplies,417.36
+23/08/2014,Technology,143.64
+24/08/2014,Furniture,13.28
+24/08/2014,Office Supplies,46.46
+25/08/2014,Furniture,6.28
+25/08/2014,Office Supplies,342.326
+25/08/2014,Technology,1103.0439999999999
+26/08/2014,Furniture,10.68
+26/08/2014,Office Supplies,29.36
+26/08/2014,Technology,326.77
+27/08/2014,Furniture,1232.06
+27/08/2014,Office Supplies,44.64
+27/08/2014,Technology,793.4300000000001
+29/08/2014,Furniture,174.0585
+29/08/2014,Office Supplies,658.264
+30/08/2014,Office Supplies,121.24
+31/08/2014,Technology,92.52
+01/09/2014,Office Supplies,112.43599999999999
+01/09/2014,Technology,357
+02/09/2014,Furniture,70.71
+02/09/2014,Office Supplies,1907.81
+02/09/2014,Technology,1275.63
+03/09/2014,Office Supplies,22.08
+05/09/2014,Furniture,31.984
+05/09/2014,Office Supplies,264.32
+06/09/2014,Furniture,41.88
+06/09/2014,Office Supplies,58.48
+07/09/2014,Furniture,1714.5929999999998
+07/09/2014,Office Supplies,651.076
+07/09/2014,Technology,1158.2060000000001
+08/09/2014,Furniture,3855.444
+08/09/2014,Office Supplies,1692.2559999999999
+08/09/2014,Technology,8680.728000000001
+09/09/2014,Furniture,864.024
+09/09/2014,Office Supplies,1679.3539999999998
+09/09/2014,Technology,1500.21
+10/09/2014,Furniture,1741.94
+10/09/2014,Office Supplies,113.28800000000001
+11/09/2014,Furniture,127.95
+12/09/2014,Furniture,3825.852
+12/09/2014,Office Supplies,936.202
+12/09/2014,Technology,142.606
+13/09/2014,Furniture,354.306
+13/09/2014,Office Supplies,206.162
+13/09/2014,Technology,714.94
+14/09/2014,Furniture,629.78
+14/09/2014,Office Supplies,1289.0159999999998
+14/09/2014,Technology,3104.92
+15/09/2014,Furniture,118.49600000000001
+15/09/2014,Office Supplies,14.94
+16/09/2014,Office Supplies,33.552
+17/09/2014,Furniture,35.34
+17/09/2014,Office Supplies,651.354
+17/09/2014,Technology,133.829
+19/09/2014,Furniture,961.0179999999999
+19/09/2014,Office Supplies,172.694
+19/09/2014,Technology,8204.925
+20/09/2014,Furniture,3071.6400000000003
+20/09/2014,Office Supplies,213.368
+20/09/2014,Technology,2050.96
+21/09/2014,Furniture,8.544
+21/09/2014,Office Supplies,384.77
+21/09/2014,Technology,2286.338
+22/09/2014,Furniture,676.9680000000001
+22/09/2014,Office Supplies,563.298
+23/09/2014,Furniture,435.999
+23/09/2014,Office Supplies,10142.354000000001
+23/09/2014,Technology,83.984
+24/09/2014,Office Supplies,211.96
+25/09/2014,Furniture,300.5328
+25/09/2014,Office Supplies,54.356
+26/09/2014,Furniture,752.304
+26/09/2014,Office Supplies,571.334
+26/09/2014,Technology,156.976
+27/09/2014,Furniture,691.4599999999999
+27/09/2014,Office Supplies,81.98
+28/09/2014,Furniture,337.088
+28/09/2014,Office Supplies,153.20399999999998
+29/09/2014,Furniture,3153.3880000000004
+29/09/2014,Office Supplies,4269.362
+29/09/2014,Technology,686.32
+30/09/2014,Furniture,15.24
+30/09/2014,Office Supplies,972.292
+01/10/2014,Office Supplies,4.71
+02/10/2014,Office Supplies,42.208
+02/10/2014,Technology,555.936
+03/10/2014,Furniture,555.8389999999999
+03/10/2014,Office Supplies,164.356
+03/10/2014,Technology,142.488
+04/10/2014,Furniture,589.41
+04/10/2014,Office Supplies,139.338
+05/10/2014,Office Supplies,91.92
+05/10/2014,Technology,99.98
+06/10/2014,Office Supplies,485.62
+06/10/2014,Technology,9.09
+07/10/2014,Furniture,129.92
+07/10/2014,Office Supplies,107.44
+08/10/2014,Office Supplies,123.92
+08/10/2014,Technology,23.472
+09/10/2014,Office Supplies,233.368
+09/10/2014,Technology,15.992
+10/10/2014,Furniture,169.224
+10/10/2014,Office Supplies,302.272
+10/10/2014,Technology,1577.8899999999999
+11/10/2014,Furniture,505.958
+11/10/2014,Office Supplies,530.206
+11/10/2014,Technology,345
+12/10/2014,Office Supplies,58.53
+13/10/2014,Furniture,1544.53
+13/10/2014,Office Supplies,618.9119999999999
+13/10/2014,Technology,48.74
+14/10/2014,Furniture,1628.82
+14/10/2014,Office Supplies,719.7040000000001
+14/10/2014,Technology,2176.96
+15/10/2014,Furniture,198.75600000000003
+15/10/2014,Office Supplies,7.968
+16/10/2014,Office Supplies,14.352
+16/10/2014,Technology,179.97
+17/10/2014,Furniture,5.312
+17/10/2014,Office Supplies,10.78
+17/10/2014,Technology,119.976
+18/10/2014,Furniture,1151.22
+18/10/2014,Office Supplies,588.746
+18/10/2014,Technology,1394.95
+19/10/2014,Office Supplies,201.97599999999997
+19/10/2014,Technology,439.12800000000004
+20/10/2014,Furniture,328.59
+20/10/2014,Office Supplies,852.546
+20/10/2014,Technology,319.968
+21/10/2014,Furniture,1000.9100000000001
+21/10/2014,Office Supplies,355.69199999999995
+22/10/2014,Furniture,223.808
+24/10/2014,Office Supplies,56.49
+25/10/2014,Office Supplies,63.106
+25/10/2014,Technology,40.776
+26/10/2014,Furniture,63.92
+26/10/2014,Technology,383.96
+27/10/2014,Office Supplies,22.32
+28/10/2014,Furniture,616.998
+28/10/2014,Office Supplies,635.604
+28/10/2014,Technology,257.98
+29/10/2014,Office Supplies,75.88
+29/10/2014,Technology,2737.9320000000002
+31/10/2014,Furniture,3591.032
+31/10/2014,Office Supplies,703.164
+31/10/2014,Technology,1067.83
+01/11/2014,Furniture,100.38399999999999
+01/11/2014,Office Supplies,1512.912
+01/11/2014,Technology,3118.784
+02/11/2014,Furniture,89.34
+02/11/2014,Office Supplies,417.02200000000005
+02/11/2014,Technology,1620.008
+03/11/2014,Furniture,1355.388
+03/11/2014,Office Supplies,554.845
+03/11/2014,Technology,873.9300000000001
+04/11/2014,Furniture,744.9499999999999
+04/11/2014,Office Supplies,206.566
+04/11/2014,Technology,5742.232
+05/11/2014,Furniture,443.50800000000004
+05/11/2014,Office Supplies,1093.29
+05/11/2014,Technology,157.766
+06/11/2014,Office Supplies,43.68
+07/11/2014,Furniture,683.144
+07/11/2014,Office Supplies,765.998
+08/11/2014,Technology,333.576
+09/11/2014,Furniture,279.186
+09/11/2014,Office Supplies,590.94
+09/11/2014,Technology,703.968
+10/11/2014,Furniture,657.0200000000001
+10/11/2014,Office Supplies,733.01
+10/11/2014,Technology,612.526
+11/11/2014,Furniture,2071.424
+11/11/2014,Office Supplies,4415.426
+11/11/2014,Technology,1627.6979999999999
+12/11/2014,Furniture,722.1852
+12/11/2014,Office Supplies,125.08
+12/11/2014,Technology,207.49599999999998
+14/11/2014,Furniture,69.264
+14/11/2014,Office Supplies,132.536
+14/11/2014,Technology,832.93
+15/11/2014,Furniture,10.11
+15/11/2014,Office Supplies,998.2419999999998
+15/11/2014,Technology,772.47
+16/11/2014,Furniture,343.27049999999997
+16/11/2014,Office Supplies,658.73
+16/11/2014,Technology,353.928
+17/11/2014,Furniture,5270.08
+17/11/2014,Office Supplies,6174.214
+17/11/2014,Technology,99.98
+18/11/2014,Furniture,2191.732
+18/11/2014,Office Supplies,665.571
+18/11/2014,Technology,549.552
+19/11/2014,Furniture,1025.88
+19/11/2014,Office Supplies,639.02
+19/11/2014,Technology,5561.186000000001
+20/11/2014,Office Supplies,73.62
+20/11/2014,Technology,833.94
+21/11/2014,Office Supplies,849.682
+21/11/2014,Technology,399.94
+22/11/2014,Office Supplies,1103.298
+23/11/2014,Furniture,1147.1
+23/11/2014,Office Supplies,180.646
+23/11/2014,Technology,35.534
+24/11/2014,Furniture,1029.808
+24/11/2014,Office Supplies,1884.662
+24/11/2014,Technology,2664.136
+25/11/2014,Furniture,2302.967
+25/11/2014,Office Supplies,1548.136
+25/11/2014,Technology,564.592
+26/11/2014,Furniture,19.3
+26/11/2014,Office Supplies,968.3940000000001
+26/11/2014,Technology,718.296
+27/11/2014,Furniture,199.9
+27/11/2014,Office Supplies,3.76
+28/11/2014,Furniture,808.932
+28/11/2014,Office Supplies,333.118
+28/11/2014,Technology,1138.78
+29/11/2014,Office Supplies,73.124
+29/11/2014,Technology,575.92
+30/11/2014,Office Supplies,116.914
+30/11/2014,Technology,102.24
+01/12/2014,Furniture,4513.606
+01/12/2014,Office Supplies,82.928
+01/12/2014,Technology,1027.856
+02/12/2014,Furniture,1282.8
+02/12/2014,Office Supplies,243.298
+02/12/2014,Technology,245.70999999999998
+03/12/2014,Office Supplies,25.92
+03/12/2014,Technology,479.96
+04/12/2014,Technology,129.98
+05/12/2014,Office Supplies,2170.252
+05/12/2014,Technology,793.39
+06/12/2014,Furniture,525.192
+06/12/2014,Office Supplies,1410.746
+06/12/2014,Technology,35.04
+07/12/2014,Office Supplies,548.4
+08/12/2014,Furniture,723.24
+08/12/2014,Office Supplies,215.28
+08/12/2014,Technology,156.6
+09/12/2014,Office Supplies,442.676
+09/12/2014,Technology,1079.976
+10/12/2014,Furniture,338.352
+10/12/2014,Office Supplies,234.98399999999998
+12/12/2014,Furniture,4695.6005000000005
+12/12/2014,Office Supplies,242.804
+13/12/2014,Furniture,182.38799999999998
+13/12/2014,Office Supplies,110.764
+14/12/2014,Furniture,322.834
+14/12/2014,Office Supplies,19.887999999999998
+14/12/2014,Technology,7298.936
+15/12/2014,Furniture,1223.786
+15/12/2014,Technology,40.68
+16/12/2014,Furniture,2798.4320000000002
+16/12/2014,Office Supplies,153.639
+16/12/2014,Technology,1442.116
+17/12/2014,Office Supplies,45.534
+19/12/2014,Furniture,1819.86
+19/12/2014,Office Supplies,250.156
+19/12/2014,Technology,1366.744
+20/12/2014,Furniture,4039.814
+20/12/2014,Office Supplies,2337.266
+20/12/2014,Technology,585.36
+21/12/2014,Furniture,1897.92
+21/12/2014,Office Supplies,35.519999999999996
+22/12/2014,Office Supplies,798.968
+23/12/2014,Furniture,118.10000000000001
+23/12/2014,Office Supplies,824.008
+24/12/2014,Furniture,346.622
+24/12/2014,Office Supplies,548.698
+24/12/2014,Technology,1054.882
+26/12/2014,Furniture,1353.158
+26/12/2014,Office Supplies,688.256
+27/12/2014,Furniture,1212.798
+27/12/2014,Office Supplies,1255.5900000000001
+27/12/2014,Technology,498
+28/12/2014,Office Supplies,3732.2960000000003
+29/12/2014,Furniture,143.172
+29/12/2014,Office Supplies,505.25199999999995
+29/12/2014,Technology,1423.672
+30/12/2014,Furniture,523.764
+30/12/2014,Office Supplies,774.611
+30/12/2014,Technology,874.2760000000001
+31/12/2014,Furniture,2584.5280000000002
+31/12/2014,Office Supplies,308.72799999999995
+31/12/2014,Technology,2360.014
+02/01/2015,Furniture,452.45
+02/01/2015,Office Supplies,139.08
+02/01/2015,Technology,1340.566
+03/01/2015,Furniture,1352.3976
+03/01/2015,Office Supplies,17.424
+03/01/2015,Technology,398.4
+04/01/2015,Furniture,192.22
+04/01/2015,Office Supplies,72.24000000000001
+05/01/2015,Furniture,61.584
+05/01/2015,Office Supplies,233.688
+06/01/2015,Office Supplies,31.538
+09/01/2015,Office Supplies,364.07
+10/01/2015,Furniture,1018.104
+12/01/2015,Office Supplies,475.548
+12/01/2015,Technology,379.066
+13/01/2015,Furniture,542.45
+13/01/2015,Office Supplies,79.828
+17/01/2015,Furniture,254.744
+17/01/2015,Office Supplies,95.63999999999999
+19/01/2015,Furniture,301.742
+23/01/2015,Office Supplies,43.66
+24/01/2015,Office Supplies,13.12
+26/01/2015,Office Supplies,182.72
+27/01/2015,Furniture,2985.906
+27/01/2015,Technology,587.346
+28/01/2015,Furniture,4297.644
+30/01/2015,Furniture,227.36
+30/01/2015,Office Supplies,14.304
+30/01/2015,Technology,1919.976
+31/01/2015,Furniture,53.34
+31/01/2015,Office Supplies,45.92
+03/02/2015,Furniture,256.202
+03/02/2015,Office Supplies,86.664
+03/02/2015,Technology,149.97
+06/02/2015,Furniture,1552.74
+06/02/2015,Office Supplies,861.276
+06/02/2015,Technology,18.528
+07/02/2015,Office Supplies,324.10999999999996
+08/02/2015,Office Supplies,21.11
+08/02/2015,Technology,107.982
+09/02/2015,Furniture,244.70399999999998
+09/02/2015,Office Supplies,40.096
+09/02/2015,Technology,500.752
+10/02/2015,Office Supplies,77.24
+14/02/2015,Office Supplies,58.013999999999996
+14/02/2015,Technology,1021.9480000000001
+15/02/2015,Office Supplies,627.4800000000001
+15/02/2015,Technology,974.9000000000001
+16/02/2015,Office Supplies,160.43
+18/02/2015,Furniture,35.544
+18/02/2015,Office Supplies,70.3
+20/02/2015,Office Supplies,286.79
+20/02/2015,Technology,29.99
+21/02/2015,Office Supplies,2591.1
+22/02/2015,Office Supplies,79.36
+23/02/2015,Office Supplies,37.775999999999996
+25/02/2015,Office Supplies,25.869999999999997
+27/02/2015,Furniture,493.92
+27/02/2015,Office Supplies,20.451
+27/02/2015,Technology,644.9
+28/02/2015,Furniture,551.264
+01/03/2015,Furniture,1412.7504
+01/03/2015,Office Supplies,117.6
+01/03/2015,Technology,111.824
+02/03/2015,Furniture,787.53
+02/03/2015,Office Supplies,112.03999999999999
+05/03/2015,Furniture,521.259
+05/03/2015,Office Supplies,915.698
+05/03/2015,Technology,532.3100000000001
+06/03/2015,Furniture,435.26
+06/03/2015,Technology,1119.984
+07/03/2015,Office Supplies,99.72
+07/03/2015,Technology,707.82
+08/03/2015,Furniture,1746.95
+08/03/2015,Office Supplies,46.396
+08/03/2015,Technology,769.95
+09/03/2015,Office Supplies,4.608
+09/03/2015,Technology,473.4
+10/03/2015,Office Supplies,90.93199999999999
+12/03/2015,Furniture,37.288
+12/03/2015,Office Supplies,13.728000000000002
+13/03/2015,Furniture,1384.856
+14/03/2015,Office Supplies,707.9000000000001
+15/03/2015,Technology,16.776
+16/03/2015,Furniture,215.09
+16/03/2015,Office Supplies,6929.219999999999
+16/03/2015,Technology,85.9
+17/03/2015,Office Supplies,33.82
+17/03/2015,Technology,15.02
+19/03/2015,Furniture,383.4656
+19/03/2015,Office Supplies,1665.968
+19/03/2015,Technology,3603.506
+20/03/2015,Office Supplies,1348.214
+20/03/2015,Technology,199.98
+21/03/2015,Office Supplies,1270.3790000000001
+22/03/2015,Furniture,91.96
+22/03/2015,Office Supplies,419.168
+22/03/2015,Technology,1970.296
+23/03/2015,Furniture,107.772
+23/03/2015,Office Supplies,285.56
+23/03/2015,Technology,239.97
+24/03/2015,Furniture,405.95799999999997
+24/03/2015,Office Supplies,6.992
+26/03/2015,Furniture,3393.68
+26/03/2015,Office Supplies,1212.914
+26/03/2015,Technology,16.776
+27/03/2015,Office Supplies,83.7
+28/03/2015,Office Supplies,77.104
+28/03/2015,Technology,166.24
+29/03/2015,Furniture,1186.8400000000001
+29/03/2015,Office Supplies,318.99
+29/03/2015,Technology,53.25
+30/03/2015,Furniture,366.744
+30/03/2015,Office Supplies,23.52
+30/03/2015,Technology,180.96
+31/03/2015,Furniture,22.38
+31/03/2015,Office Supplies,98.376
+31/03/2015,Technology,79.96
+02/04/2015,Office Supplies,41.348
+02/04/2015,Technology,257.872
+04/04/2015,Furniture,108.4
+04/04/2015,Office Supplies,765.268
+04/04/2015,Technology,610.9300000000001
+05/04/2015,Furniture,1799.394
+05/04/2015,Office Supplies,877.886
+05/04/2015,Technology,296.778
+06/04/2015,Office Supplies,114.51599999999999
+06/04/2015,Technology,25.488
+07/04/2015,Office Supplies,523.484
+07/04/2015,Technology,383.952
+09/04/2015,Furniture,369.912
+09/04/2015,Office Supplies,388.08
+10/04/2015,Office Supplies,169.54199999999997
+11/04/2015,Furniture,121.888
+11/04/2015,Office Supplies,459.36
+11/04/2015,Technology,747.098
+12/04/2015,Office Supplies,40.74
+13/04/2015,Furniture,1811.432
+13/04/2015,Office Supplies,202.81400000000002
+13/04/2015,Technology,1178.432
+14/04/2015,Office Supplies,35.208
+16/04/2015,Furniture,1847.8839999999998
+16/04/2015,Office Supplies,142.138
+16/04/2015,Technology,2171.95
+17/04/2015,Office Supplies,1538.176
+17/04/2015,Technology,1206.93
+18/04/2015,Furniture,152.83599999999998
+18/04/2015,Office Supplies,1363.464
+18/04/2015,Technology,490.66
+19/04/2015,Office Supplies,329.96
+20/04/2015,Furniture,595.38
+20/04/2015,Office Supplies,311.37600000000003
+20/04/2015,Technology,287.97
+21/04/2015,Furniture,401.84000000000003
+21/04/2015,Office Supplies,21.3
+21/04/2015,Technology,469.95
+22/04/2015,Office Supplies,64.14
+22/04/2015,Technology,88.776
+24/04/2015,Office Supplies,25.99
+25/04/2015,Furniture,128.058
+25/04/2015,Office Supplies,792.888
+26/04/2015,Furniture,1592.8495
+26/04/2015,Office Supplies,185.28
+26/04/2015,Technology,311.976
+27/04/2015,Furniture,1267.53
+27/04/2015,Office Supplies,72.14
+27/04/2015,Technology,1379.92
+28/04/2015,Office Supplies,4044.3619999999996
+29/04/2015,Office Supplies,7.968
+30/04/2015,Furniture,278.295
+30/04/2015,Office Supplies,41.129999999999995
+30/04/2015,Technology,1252.27
+01/05/2015,Furniture,63.552
+01/05/2015,Office Supplies,298.636
+01/05/2015,Technology,88.752
+02/05/2015,Office Supplies,8.856
+02/05/2015,Technology,158.376
+03/05/2015,Furniture,1509.996
+03/05/2015,Office Supplies,321.252
+03/05/2015,Technology,367.512
+04/05/2015,Furniture,49.088
+04/05/2015,Office Supplies,125.93
+04/05/2015,Technology,946.344
+07/05/2015,Furniture,244.006
+07/05/2015,Office Supplies,61.616
+08/05/2015,Furniture,339.51599999999996
+08/05/2015,Office Supplies,464.538
+08/05/2015,Technology,3177.9139999999998
+09/05/2015,Office Supplies,48.81
+10/05/2015,Office Supplies,107.75399999999999
+10/05/2015,Technology,46.688
+11/05/2015,Furniture,191.968
+12/05/2015,Furniture,21.968
+12/05/2015,Office Supplies,217.64600000000002
+12/05/2015,Technology,820.7360000000001
+13/05/2015,Office Supplies,16
+13/05/2015,Technology,222.384
+14/05/2015,Furniture,1452.7875
+14/05/2015,Office Supplies,1688.412
+15/05/2015,Office Supplies,69.908
+16/05/2015,Technology,255.968
+17/05/2015,Office Supplies,134.46800000000002
+18/05/2015,Office Supplies,10.86
+20/05/2015,Furniture,163.136
+20/05/2015,Office Supplies,6.408
+21/05/2015,Office Supplies,72.332
+22/05/2015,Office Supplies,113.05000000000001
+22/05/2015,Technology,3749.0480000000002
+23/05/2015,Furniture,75.33
+23/05/2015,Office Supplies,1229.626
+24/05/2015,Furniture,602.651
+24/05/2015,Office Supplies,7.656
+25/05/2015,Furniture,14.73
+25/05/2015,Office Supplies,1049.664
+25/05/2015,Technology,675.024
+26/05/2015,Furniture,230.856
+26/05/2015,Office Supplies,184.224
+26/05/2015,Technology,567.484
+28/05/2015,Office Supplies,748.156
+28/05/2015,Technology,45.99
+29/05/2015,Furniture,358.626
+29/05/2015,Office Supplies,846.216
+30/05/2015,Office Supplies,160.32
+30/05/2015,Technology,520.78
+31/05/2015,Furniture,4056.7400000000002
+31/05/2015,Office Supplies,1121.398
+01/06/2015,Office Supplies,492.31800000000004
+01/06/2015,Technology,341.88
+04/06/2015,Furniture,35.28
+04/06/2015,Office Supplies,47.08
+04/06/2015,Technology,1109.95
+05/06/2015,Furniture,1522.638
+05/06/2015,Office Supplies,10.56
+07/06/2015,Office Supplies,59.768
+08/06/2015,Furniture,173.208
+08/06/2015,Office Supplies,907.528
+08/06/2015,Technology,2.376
+09/06/2015,Furniture,355.36
+09/06/2015,Office Supplies,228.78
+09/06/2015,Technology,212.976
+11/06/2015,Furniture,1201.7520000000002
+11/06/2015,Office Supplies,1868.528
+11/06/2015,Technology,303.284
+12/06/2015,Furniture,43.296
+12/06/2015,Office Supplies,75.196
+12/06/2015,Technology,55.984
+13/06/2015,Office Supplies,160.948
+13/06/2015,Technology,967.95
+14/06/2015,Furniture,51.072
+15/06/2015,Furniture,404.96000000000004
+15/06/2015,Office Supplies,91.93599999999999
+15/06/2015,Technology,237.248
+16/06/2015,Furniture,197.372
+16/06/2015,Office Supplies,3112.552
+16/06/2015,Technology,133.98
+18/06/2015,Furniture,779.336
+18/06/2015,Office Supplies,635.781
+18/06/2015,Technology,467.97
+19/06/2015,Furniture,12.56
+19/06/2015,Office Supplies,433.786
+20/06/2015,Furniture,257.64
+20/06/2015,Technology,571.904
+21/06/2015,Technology,107.976
+22/06/2015,Furniture,796.425
+22/06/2015,Office Supplies,1222.528
+23/06/2015,Furniture,27.42
+23/06/2015,Office Supplies,171.41
+23/06/2015,Technology,638.128
+25/06/2015,Furniture,280.234
+25/06/2015,Office Supplies,576.846
+26/06/2015,Furniture,332.94
+26/06/2015,Office Supplies,245.476
+26/06/2015,Technology,1013.78
+28/06/2015,Furniture,1104.7
+28/06/2015,Office Supplies,281.76599999999996
+29/06/2015,Furniture,137.986
+29/06/2015,Office Supplies,24.96
+29/06/2015,Technology,269.98
+02/07/2015,Furniture,950.378
+02/07/2015,Office Supplies,607.284
+02/07/2015,Technology,74.24
+03/07/2015,Furniture,522.332
+03/07/2015,Office Supplies,301.65000000000003
+04/07/2015,Office Supplies,38.328
+04/07/2015,Technology,1099.96
+05/07/2015,Furniture,9.856
+05/07/2015,Office Supplies,76.99000000000001
+05/07/2015,Technology,34.8
+06/07/2015,Furniture,642.092
+06/07/2015,Office Supplies,612.77
+06/07/2015,Technology,124.95
+08/07/2015,Office Supplies,21.12
+09/07/2015,Furniture,181.96
+09/07/2015,Office Supplies,670.202
+09/07/2015,Technology,734.952
+10/07/2015,Office Supplies,43.286
+11/07/2015,Furniture,856.4680000000001
+11/07/2015,Office Supplies,369.48400000000004
+11/07/2015,Technology,716
+12/07/2015,Furniture,391.367
+12/07/2015,Office Supplies,8.84
+12/07/2015,Technology,1652.3600000000001
+13/07/2015,Furniture,1931.04
+13/07/2015,Office Supplies,102.21600000000001
+14/07/2015,Furniture,569.684
+14/07/2015,Office Supplies,291.23199999999997
+16/07/2015,Furniture,2199.836
+16/07/2015,Office Supplies,229.65
+16/07/2015,Technology,599.9
+17/07/2015,Furniture,427.38599999999997
+17/07/2015,Office Supplies,20.696
+18/07/2015,Furniture,7.38
+18/07/2015,Office Supplies,9.088
+18/07/2015,Technology,655.95
+19/07/2015,Office Supplies,2.025
+20/07/2015,Furniture,1298.374
+20/07/2015,Office Supplies,410.01
+20/07/2015,Technology,984.7840000000001
+23/07/2015,Furniture,128.82
+23/07/2015,Office Supplies,79.452
+24/07/2015,Furniture,20.94
+24/07/2015,Office Supplies,225.15
+24/07/2015,Technology,279.86
+25/07/2015,Furniture,1625.048
+25/07/2015,Office Supplies,146.016
+25/07/2015,Technology,623.96
+26/07/2015,Furniture,659.517
+26/07/2015,Office Supplies,309.708
+27/07/2015,Technology,29.97
+30/07/2015,Furniture,161.16
+30/07/2015,Office Supplies,72.712
+30/07/2015,Technology,209.93
+31/07/2015,Furniture,1090.782
+31/07/2015,Office Supplies,72.03
+31/07/2015,Technology,2549.35
+01/08/2015,Furniture,1004.976
+01/08/2015,Office Supplies,6.72
+02/08/2015,Furniture,388.48
+02/08/2015,Office Supplies,14.768
+02/08/2015,Technology,887.23
+05/08/2015,Furniture,14.76
+05/08/2015,Office Supplies,57.89
+06/08/2015,Furniture,369.1992
+06/08/2015,Office Supplies,125.67
+07/08/2015,Furniture,212.94
+07/08/2015,Office Supplies,260.296
+07/08/2015,Technology,494.97
+08/08/2015,Furniture,144.784
+08/08/2015,Office Supplies,615.328
+08/08/2015,Technology,79.99
+09/08/2015,Furniture,1755.876
+09/08/2015,Office Supplies,1586.786
+09/08/2015,Technology,1535.73
+10/08/2015,Office Supplies,273.16200000000003
+10/08/2015,Technology,578.312
+11/08/2015,Furniture,46.152
+11/08/2015,Office Supplies,11.96
+11/08/2015,Technology,138
+13/08/2015,Furniture,31.56
+13/08/2015,Office Supplies,555.336
+15/08/2015,Furniture,104.23
+15/08/2015,Office Supplies,393.36
+16/08/2015,Furniture,555.822
+16/08/2015,Office Supplies,392.18199999999996
+16/08/2015,Technology,2430.928
+17/08/2015,Office Supplies,98.76
+17/08/2015,Technology,282.88
+21/08/2015,Furniture,1754.848
+21/08/2015,Office Supplies,1050.944
+21/08/2015,Technology,21.728
+22/08/2015,Office Supplies,66.632
+23/08/2015,Office Supplies,950.368
+23/08/2015,Technology,251.91
+24/08/2015,Furniture,1218.059
+24/08/2015,Office Supplies,2175.804
+24/08/2015,Technology,3800.9120000000003
+25/08/2015,Furniture,68.768
+25/08/2015,Office Supplies,109.758
+27/08/2015,Office Supplies,639.9739999999999
+28/08/2015,Furniture,415.307
+28/08/2015,Office Supplies,2132.8900000000003
+28/08/2015,Technology,3943.096
+29/08/2015,Technology,246.5
+31/08/2015,Furniture,1552.831
+31/08/2015,Office Supplies,216.52
+31/08/2015,Technology,832.446
+01/09/2015,Furniture,185.1
+01/09/2015,Office Supplies,1222.48
+01/09/2015,Technology,959.984
+03/09/2015,Furniture,367.72
+03/09/2015,Office Supplies,1259.338
+03/09/2015,Technology,247.83999999999997
+04/09/2015,Office Supplies,316.95799999999997
+04/09/2015,Technology,754.326
+05/09/2015,Furniture,778.651
+05/09/2015,Office Supplies,155.452
+06/09/2015,Furniture,549.564
+06/09/2015,Office Supplies,71.78999999999999
+06/09/2015,Technology,384.3
+07/09/2015,Furniture,556.106
+07/09/2015,Office Supplies,924.6669999999999
+07/09/2015,Technology,1441.894
+08/09/2015,Furniture,21.36
+08/09/2015,Office Supplies,68.28
+10/09/2015,Furniture,648.526
+10/09/2015,Office Supplies,767.2
+11/09/2015,Furniture,244.24
+11/09/2015,Office Supplies,1697.8999999999999
+11/09/2015,Technology,19.99
+12/09/2015,Office Supplies,205.86
+12/09/2015,Technology,501.964
+13/09/2015,Furniture,2917.822
+13/09/2015,Office Supplies,327.99
+13/09/2015,Technology,199.96
+14/09/2015,Furniture,1082.886
+14/09/2015,Office Supplies,1299.55
+14/09/2015,Technology,879.984
+15/09/2015,Furniture,1976.884
+15/09/2015,Office Supplies,498.996
+15/09/2015,Technology,59.97
+16/09/2015,Office Supplies,31.12
+17/09/2015,Furniture,10006.173999999999
+17/09/2015,Office Supplies,493.99399999999997
+17/09/2015,Technology,1024.838
+18/09/2015,Furniture,24.4
+18/09/2015,Office Supplies,1422.88
+18/09/2015,Technology,2477.04
+19/09/2015,Furniture,122.80000000000001
+19/09/2015,Office Supplies,31.36
+19/09/2015,Technology,346.22
+20/09/2015,Office Supplies,1836.052
+21/09/2015,Furniture,3119.064
+21/09/2015,Office Supplies,1431.87
+21/09/2015,Technology,2431.124
+22/09/2015,Furniture,252.57999999999998
+22/09/2015,Office Supplies,912.948
+22/09/2015,Technology,617.976
+24/09/2015,Furniture,1940.51
+24/09/2015,Office Supplies,1399.8239999999998
+24/09/2015,Technology,880.2600000000001
+25/09/2015,Furniture,1454.3480000000002
+25/09/2015,Office Supplies,350.579
+25/09/2015,Technology,1228.83
+26/09/2015,Office Supplies,1378.289
+26/09/2015,Technology,2343.984
+27/09/2015,Furniture,24.288
+27/09/2015,Office Supplies,486.79
+27/09/2015,Technology,1871.88
+28/09/2015,Office Supplies,713.5999999999999
+28/09/2015,Technology,344.764
+01/10/2015,Office Supplies,164.866
+01/10/2015,Technology,993.548
+02/10/2015,Furniture,11.032
+02/10/2015,Office Supplies,611.2339999999999
+02/10/2015,Technology,647
+03/10/2015,Furniture,156.156
+03/10/2015,Office Supplies,47.078
+03/10/2015,Technology,71.98400000000001
+04/10/2015,Furniture,457.884
+04/10/2015,Office Supplies,47.696
+05/10/2015,Furniture,357.462
+05/10/2015,Office Supplies,152.59
+05/10/2015,Technology,341.04
+08/10/2015,Furniture,218.68
+08/10/2015,Office Supplies,3.44
+09/10/2015,Furniture,389.97
+09/10/2015,Office Supplies,462.495
+09/10/2015,Technology,1281.0700000000002
+10/10/2015,Furniture,362.136
+10/10/2015,Office Supplies,1886.058
+11/10/2015,Furniture,957.5775
+11/10/2015,Office Supplies,22.368
+11/10/2015,Technology,31.95
+12/10/2015,Furniture,1735.158
+12/10/2015,Office Supplies,166.26
+12/10/2015,Technology,489.3399999999999
+13/10/2015,Furniture,287.94
+13/10/2015,Technology,83.72
+15/10/2015,Furniture,2601.946
+15/10/2015,Office Supplies,13.768
+15/10/2015,Technology,603.8399999999999
+16/10/2015,Technology,824.97
+17/10/2015,Office Supplies,77.88
+18/10/2015,Furniture,10.11
+18/10/2015,Office Supplies,91.104
+18/10/2015,Technology,277.28000000000003
+19/10/2015,Office Supplies,1715.14
+19/10/2015,Technology,419.95
+20/10/2015,Furniture,455.55600000000004
+20/10/2015,Office Supplies,24.56
+20/10/2015,Technology,239.97
+22/10/2015,Office Supplies,15.128
+23/10/2015,Furniture,1275.1039999999998
+23/10/2015,Office Supplies,140.744
+23/10/2015,Technology,846.448
+24/10/2015,Furniture,801.633
+24/10/2015,Office Supplies,29.512
+25/10/2015,Furniture,1126.612
+25/10/2015,Office Supplies,139.81
+25/10/2015,Technology,158.99
+26/10/2015,Office Supplies,1221.029
+26/10/2015,Technology,174.304
+28/10/2015,Furniture,57.21
+28/10/2015,Office Supplies,47.300000000000004
+29/10/2015,Office Supplies,244.24
+30/10/2015,Furniture,15.488
+30/10/2015,Office Supplies,182.91
+30/10/2015,Technology,1923.646
+31/10/2015,Furniture,748.969
+31/10/2015,Office Supplies,1166.2
+31/10/2015,Technology,1295.84
+01/11/2015,Furniture,1094.388
+01/11/2015,Office Supplies,24.567999999999998
+01/11/2015,Technology,1987.15
+02/11/2015,Furniture,4379.385
+02/11/2015,Office Supplies,356.532
+02/11/2015,Technology,792.634
+03/11/2015,Furniture,1491.4199999999998
+03/11/2015,Office Supplies,6.608
+03/11/2015,Technology,1302.818
+05/11/2015,Furniture,207
+05/11/2015,Office Supplies,627.874
+06/11/2015,Office Supplies,11.481
+07/11/2015,Furniture,970.8800000000001
+07/11/2015,Office Supplies,1814.283
+07/11/2015,Technology,287.91
+08/11/2015,Furniture,5252.4259999999995
+08/11/2015,Office Supplies,768.761
+08/11/2015,Technology,6175.81
+09/11/2015,Furniture,1024.38
+09/11/2015,Office Supplies,360.082
+09/11/2015,Technology,3235.83
+10/11/2015,Furniture,29.22
+10/11/2015,Office Supplies,2877.794
+10/11/2015,Technology,629.89
+11/11/2015,Office Supplies,542.178
+12/11/2015,Furniture,670.0559999999999
+12/11/2015,Office Supplies,357.144
+12/11/2015,Technology,100.792
+13/11/2015,Furniture,1781.1372000000001
+13/11/2015,Office Supplies,600.2040000000001
+13/11/2015,Technology,1209.7359999999999
+14/11/2015,Furniture,1190.332
+14/11/2015,Office Supplies,925.75
+14/11/2015,Technology,396.628
+15/11/2015,Furniture,39.96
+15/11/2015,Office Supplies,662.21
+16/11/2015,Furniture,1784.164
+16/11/2015,Office Supplies,743.458
+16/11/2015,Technology,1544.712
+17/11/2015,Furniture,1667.028
+17/11/2015,Office Supplies,1802.99
+17/11/2015,Technology,415.968
+19/11/2015,Furniture,141.96
+19/11/2015,Office Supplies,37.064
+19/11/2015,Technology,861.76
+20/11/2015,Furniture,1656.7
+20/11/2015,Office Supplies,637.738
+20/11/2015,Technology,566.712
+21/11/2015,Furniture,2055.7748
+21/11/2015,Office Supplies,506.054
+21/11/2015,Technology,1051.746
+22/11/2015,Furniture,206.962
+22/11/2015,Office Supplies,347.384
+22/11/2015,Technology,60.153
+23/11/2015,Office Supplies,3142.2079999999996
+23/11/2015,Technology,307.98
+24/11/2015,Furniture,79.76
+24/11/2015,Office Supplies,1125.024
+24/11/2015,Technology,13.98
+25/11/2015,Office Supplies,13.12
+26/11/2015,Furniture,692.472
+26/11/2015,Office Supplies,191.62
+26/11/2015,Technology,599.99
+27/11/2015,Furniture,1315.3955
+27/11/2015,Office Supplies,404.77
+27/11/2015,Technology,1389.618
+28/11/2015,Furniture,625.962
+28/11/2015,Office Supplies,590.616
+28/11/2015,Technology,647.904
+29/11/2015,Furniture,1408.8700000000001
+29/11/2015,Office Supplies,1329.818
+29/11/2015,Technology,21.48
+30/11/2015,Furniture,1115.2
+30/11/2015,Office Supplies,410.797
+30/11/2015,Technology,272.4
+01/12/2015,Furniture,6600.68
+01/12/2015,Office Supplies,529.914
+03/12/2015,Furniture,440.411
+03/12/2015,Office Supplies,907.5260000000001
+03/12/2015,Technology,624.708
+04/12/2015,Furniture,1200.268
+04/12/2015,Office Supplies,2035.484
+04/12/2015,Technology,1950.0620000000001
+05/12/2015,Furniture,306.53
+05/12/2015,Office Supplies,503.808
+05/12/2015,Technology,86.98400000000001
+06/12/2015,Furniture,390.718
+06/12/2015,Office Supplies,2171.83
+06/12/2015,Technology,3498.954
+07/12/2015,Furniture,363.84000000000003
+07/12/2015,Office Supplies,200.518
+07/12/2015,Technology,773.94
+08/12/2015,Office Supplies,598.368
+08/12/2015,Technology,2074.36
+09/12/2015,Office Supplies,34.02
+10/12/2015,Furniture,1536.8600000000001
+10/12/2015,Office Supplies,481.118
+10/12/2015,Technology,1062.402
+11/12/2015,Furniture,541.862
+11/12/2015,Office Supplies,529.748
+11/12/2015,Technology,519.284
+12/12/2015,Furniture,515.428
+12/12/2015,Office Supplies,611.1179999999999
+12/12/2015,Technology,322.308
+13/12/2015,Office Supplies,243.92000000000002
+13/12/2015,Technology,779.466
+14/12/2015,Furniture,324.188
+14/12/2015,Office Supplies,164.148
+14/12/2015,Technology,369.968
+15/12/2015,Furniture,262.864
+15/12/2015,Office Supplies,158.512
+15/12/2015,Technology,5073.42
+16/12/2015,Office Supplies,4.98
+17/12/2015,Furniture,1245.6419999999998
+17/12/2015,Office Supplies,536.866
+17/12/2015,Technology,135.984
+18/12/2015,Furniture,20.32
+18/12/2015,Office Supplies,748.728
+18/12/2015,Technology,166.24
+19/12/2015,Furniture,1053.164
+19/12/2015,Office Supplies,691.908
+19/12/2015,Technology,4375.584
+20/12/2015,Furniture,373.426
+20/12/2015,Office Supplies,217.286
+20/12/2015,Technology,516.752
+21/12/2015,Furniture,1670.126
+21/12/2015,Office Supplies,151.208
+21/12/2015,Technology,1436.426
+22/12/2015,Furniture,422.625
+22/12/2015,Office Supplies,50.688
+23/12/2015,Office Supplies,194.32
+24/12/2015,Furniture,1563.994
+24/12/2015,Office Supplies,428.67
+24/12/2015,Technology,5491.902
+25/12/2015,Furniture,1433.5639999999999
+25/12/2015,Office Supplies,653.564
+25/12/2015,Technology,2117.84
+26/12/2015,Furniture,326.646
+26/12/2015,Office Supplies,234.83999999999997
+27/12/2015,Furniture,2477.9031999999997
+27/12/2015,Office Supplies,1305.924
+27/12/2015,Technology,1364.62
+28/12/2015,Office Supplies,24.816
+28/12/2015,Technology,54.384
+29/12/2015,Office Supplies,6.36
+30/12/2015,Office Supplies,414.9
+30/12/2015,Technology,2836.44
+31/12/2015,Furniture,14.76
+31/12/2015,Office Supplies,1366.584
+02/01/2016,Furniture,173.94
+02/01/2016,Technology,231.98
+03/01/2016,Furniture,1592.85
+03/01/2016,Office Supplies,126.33999999999999
+03/01/2016,Technology,376.64
+04/01/2016,Office Supplies,109.252
+04/01/2016,Technology,959.968
+05/01/2016,Office Supplies,5.248
+05/01/2016,Technology,250.656
+07/01/2016,Furniture,23.076
+07/01/2016,Office Supplies,60.5
+08/01/2016,Furniture,1565.88
+08/01/2016,Office Supplies,184.494
+08/01/2016,Technology,108.784
+09/01/2016,Furniture,15.168
+09/01/2016,Technology,727.8779999999999
+10/01/2016,Furniture,104.77000000000001
+10/01/2016,Technology,69.98
+11/01/2016,Furniture,54.992
+11/01/2016,Office Supplies,78.864
+11/01/2016,Technology,15.588
+14/01/2016,Furniture,315.776
+14/01/2016,Office Supplies,89.568
+15/01/2016,Furniture,181.797
+15/01/2016,Office Supplies,265.156
+15/01/2016,Technology,254.97
+16/01/2016,Office Supplies,11.648
+16/01/2016,Technology,90.57
+17/01/2016,Furniture,322.59
+17/01/2016,Technology,717.96
+21/01/2016,Furniture,1167.056
+22/01/2016,Furniture,575.308
+22/01/2016,Office Supplies,176.77
+22/01/2016,Technology,165.55200000000002
+23/01/2016,Furniture,59.99
+23/01/2016,Office Supplies,1572.33
+23/01/2016,Technology,99.98
+24/01/2016,Office Supplies,31.36
+25/01/2016,Furniture,359.702
+25/01/2016,Office Supplies,499.01
+28/01/2016,Office Supplies,39.68
+30/01/2016,Furniture,1109.848
+30/01/2016,Office Supplies,557.5
+30/01/2016,Technology,1439.968
+31/01/2016,Office Supplies,1491.962
+31/01/2016,Technology,109.592
+01/02/2016,Office Supplies,161.97
+02/02/2016,Furniture,92.474
+02/02/2016,Office Supplies,154.35999999999999
+02/02/2016,Technology,8749.95
+03/02/2016,Furniture,866.4
+04/02/2016,Furniture,14.368
+04/02/2016,Office Supplies,93.02
+04/02/2016,Technology,90.48
+05/02/2016,Furniture,816.548
+05/02/2016,Office Supplies,1428.28
+05/02/2016,Technology,749.648
+06/02/2016,Furniture,132.224
+07/02/2016,Office Supplies,38.182
+07/02/2016,Technology,723.96
+08/02/2016,Furniture,241.5
+08/02/2016,Technology,1127.976
+09/02/2016,Technology,121.83
+11/02/2016,Technology,69.93
+12/02/2016,Office Supplies,1366.04
+13/02/2016,Office Supplies,146.82
+14/02/2016,Furniture,560.991
+14/02/2016,Office Supplies,276.93
+15/02/2016,Office Supplies,407.072
+16/02/2016,Furniture,935.644
+16/02/2016,Office Supplies,110.02399999999999
+16/02/2016,Technology,89.97
+19/02/2016,Furniture,44.46
+19/02/2016,Office Supplies,348.2
+20/02/2016,Office Supplies,16.496
+21/02/2016,Furniture,204.75
+21/02/2016,Office Supplies,1266.406
+21/02/2016,Technology,52.97
+22/02/2016,Office Supplies,500.96999999999997
+22/02/2016,Technology,482.2
+23/02/2016,Office Supplies,57.576
+25/02/2016,Office Supplies,46.72
+27/02/2016,Furniture,16.192
+27/02/2016,Office Supplies,227.7
+28/02/2016,Office Supplies,36.48
+29/02/2016,Office Supplies,111.104
+01/03/2016,Furniture,836.592
+01/03/2016,Office Supplies,389.3
+01/03/2016,Technology,5059.914000000001
+03/03/2016,Furniture,1236.606
+03/03/2016,Office Supplies,4651.41
+03/03/2016,Technology,1376.406
+04/03/2016,Office Supplies,155.47
+04/03/2016,Technology,159.98
+05/03/2016,Office Supplies,162.344
+06/03/2016,Furniture,305.02
+06/03/2016,Office Supplies,6.105
+06/03/2016,Technology,500.178
+07/03/2016,Technology,21.072
+08/03/2016,Furniture,215.95999999999998
+08/03/2016,Office Supplies,474.354
+08/03/2016,Technology,1500.496
+09/03/2016,Furniture,354.9
+09/03/2016,Office Supplies,80.95
+09/03/2016,Technology,199.75
+10/03/2016,Furniture,176.784
+10/03/2016,Office Supplies,119.596
+10/03/2016,Technology,7583.354
+11/03/2016,Furniture,351.262
+11/03/2016,Office Supplies,498.78
+11/03/2016,Technology,45.98
+12/03/2016,Furniture,770.352
+12/03/2016,Office Supplies,924.29
+13/03/2016,Furniture,1100.4250000000002
+13/03/2016,Office Supplies,6194.303
+13/03/2016,Technology,1572.154
+14/03/2016,Furniture,476.736
+14/03/2016,Office Supplies,192.632
+15/03/2016,Furniture,1880.462
+15/03/2016,Office Supplies,392.36999999999995
+15/03/2016,Technology,83.976
+17/03/2016,Furniture,971.5
+17/03/2016,Office Supplies,1174.0700000000002
+17/03/2016,Technology,214.764
+18/03/2016,Furniture,189.882
+18/03/2016,Office Supplies,871.8
+19/03/2016,Furniture,107.594
+19/03/2016,Office Supplies,31.086
+20/03/2016,Furniture,783.61
+20/03/2016,Office Supplies,47.925000000000004
+20/03/2016,Technology,96.77600000000001
+21/03/2016,Furniture,627.8019999999999
+21/03/2016,Office Supplies,17.904
+22/03/2016,Furniture,167.888
+22/03/2016,Technology,58.58
+24/03/2016,Furniture,301.47
+24/03/2016,Office Supplies,41.135999999999996
+24/03/2016,Technology,403.168
+25/03/2016,Office Supplies,59.52
+25/03/2016,Technology,1287.45
+26/03/2016,Office Supplies,562.27
+26/03/2016,Technology,119.976
+27/03/2016,Furniture,60.16
+27/03/2016,Office Supplies,32.54
+28/03/2016,Office Supplies,125.30000000000001
+29/03/2016,Furniture,1558.091
+29/03/2016,Office Supplies,130.136
+29/03/2016,Technology,971.112
+30/03/2016,Office Supplies,11.34
+31/03/2016,Furniture,327.996
+31/03/2016,Technology,312.76599999999996
+01/04/2016,Furniture,1324.532
+01/04/2016,Office Supplies,788.8380000000001
+01/04/2016,Technology,48.11
+02/04/2016,Furniture,1454.9
+03/04/2016,Furniture,71.12
+03/04/2016,Office Supplies,110.11800000000001
+03/04/2016,Technology,259.96
+04/04/2016,Furniture,82.64
+04/04/2016,Office Supplies,647.6139999999999
+04/04/2016,Technology,239.94
+05/04/2016,Office Supplies,927.5519999999999
+05/04/2016,Technology,118.782
+06/04/2016,Technology,1294.75
+07/04/2016,Furniture,658.746
+07/04/2016,Office Supplies,111.852
+07/04/2016,Technology,1199.976
+08/04/2016,Furniture,1024.2079999999999
+08/04/2016,Office Supplies,1450.268
+08/04/2016,Technology,431.928
+09/04/2016,Furniture,556.665
+09/04/2016,Office Supplies,40.632
+09/04/2016,Technology,517.9
+10/04/2016,Office Supplies,950.594
+12/04/2016,Furniture,1176.5600000000002
+12/04/2016,Office Supplies,365.97
+13/04/2016,Office Supplies,6.12
+14/04/2016,Furniture,1317.336
+14/04/2016,Office Supplies,149.236
+15/04/2016,Furniture,1121.568
+15/04/2016,Office Supplies,379.58399999999995
+15/04/2016,Technology,700.704
+16/04/2016,Furniture,9.96
+16/04/2016,Office Supplies,190.028
+16/04/2016,Technology,9135.098
+17/04/2016,Furniture,355.24300000000005
+17/04/2016,Office Supplies,29.05
+17/04/2016,Technology,36.792
+18/04/2016,Furniture,472.252
+18/04/2016,Office Supplies,2012.7259999999999
+18/04/2016,Technology,29.56
+19/04/2016,Furniture,205.176
+19/04/2016,Office Supplies,1143.016
+19/04/2016,Technology,65.94
+21/04/2016,Office Supplies,271.616
+22/04/2016,Furniture,1414.3700000000001
+22/04/2016,Office Supplies,351.095
+23/04/2016,Office Supplies,620.378
+23/04/2016,Technology,99.99
+24/04/2016,Furniture,1325.76
+24/04/2016,Office Supplies,22.644
+24/04/2016,Technology,258.696
+25/04/2016,Office Supplies,25.62
+25/04/2016,Technology,82.8
+26/04/2016,Furniture,434.646
+28/04/2016,Furniture,71.912
+28/04/2016,Office Supplies,45.184
+28/04/2016,Technology,369.576
+30/04/2016,Furniture,134.496
+30/04/2016,Office Supplies,7.712
+01/05/2016,Furniture,370.62
+01/05/2016,Office Supplies,147.246
+02/05/2016,Furniture,781.0600000000001
+02/05/2016,Office Supplies,317.076
+03/05/2016,Furniture,51.968
+03/05/2016,Office Supplies,257.61199999999997
+03/05/2016,Technology,789.433
+05/05/2016,Furniture,2072.464
+05/05/2016,Office Supplies,205.168
+05/05/2016,Technology,423.648
+06/05/2016,Furniture,96.31200000000001
+06/05/2016,Office Supplies,114.472
+06/05/2016,Technology,26.176
+07/05/2016,Furniture,506.444
+07/05/2016,Office Supplies,129.632
+07/05/2016,Technology,4199.9
+08/05/2016,Furniture,211.96
+08/05/2016,Office Supplies,1070.172
+08/05/2016,Technology,58.112
+09/05/2016,Office Supplies,1170.396
+09/05/2016,Technology,113.116
+10/05/2016,Office Supplies,19.032
+10/05/2016,Technology,743.988
+11/05/2016,Office Supplies,5.98
+12/05/2016,Furniture,10.02
+12/05/2016,Office Supplies,156.898
+12/05/2016,Technology,751.96
+14/05/2016,Furniture,109.576
+14/05/2016,Office Supplies,117.226
+14/05/2016,Technology,229.128
+15/05/2016,Office Supplies,648.9119999999999
+16/05/2016,Furniture,282.84
+16/05/2016,Office Supplies,597.6199999999999
+17/05/2016,Furniture,195.848
+17/05/2016,Office Supplies,151.074
+18/05/2016,Office Supplies,122.22
+19/05/2016,Furniture,717.64
+19/05/2016,Office Supplies,864.3679999999999
+20/05/2016,Furniture,1049.2
+20/05/2016,Office Supplies,58.753
+20/05/2016,Technology,1363.96
+21/05/2016,Office Supplies,200.378
+21/05/2016,Technology,2517.8360000000002
+22/05/2016,Furniture,174.286
+22/05/2016,Office Supplies,704.45
+22/05/2016,Technology,920.464
+23/05/2016,Furniture,37.05
+23/05/2016,Office Supplies,21.642
+23/05/2016,Technology,10502.286
+24/05/2016,Office Supplies,277.756
+25/05/2016,Furniture,24.96
+25/05/2016,Office Supplies,1287.01
+26/05/2016,Furniture,941.4440000000001
+26/05/2016,Office Supplies,338.856
+26/05/2016,Technology,695.056
+27/05/2016,Furniture,3535.6600000000003
+27/05/2016,Office Supplies,1769.4180000000001
+28/05/2016,Furniture,390.272
+28/05/2016,Office Supplies,770.652
+28/05/2016,Technology,976.4
+29/05/2016,Furniture,44.76
+29/05/2016,Office Supplies,38.475
+29/05/2016,Technology,979.95
+30/05/2016,Furniture,3292.308
+30/05/2016,Office Supplies,1436.692
+30/05/2016,Technology,3361.578
+31/05/2016,Furniture,223.143
+31/05/2016,Office Supplies,36.016
+31/05/2016,Technology,179.7
+02/06/2016,Office Supplies,157.844
+03/06/2016,Furniture,71.088
+04/06/2016,Furniture,810.5409999999999
+04/06/2016,Office Supplies,124.148
+04/06/2016,Technology,1381.8339999999998
+05/06/2016,Office Supplies,659.82
+06/06/2016,Furniture,548.96
+06/06/2016,Office Supplies,1090.48
+06/06/2016,Technology,4386.872
+07/06/2016,Office Supplies,51.562
+09/06/2016,Furniture,815.292
+09/06/2016,Technology,873.1800000000001
+10/06/2016,Furniture,1335.68
+10/06/2016,Office Supplies,76.71600000000001
+11/06/2016,Furniture,915.256
+11/06/2016,Office Supplies,78.22
+11/06/2016,Technology,629.94
+12/06/2016,Furniture,433.396
+12/06/2016,Office Supplies,1453.148
+12/06/2016,Technology,1076.019
+13/06/2016,Office Supplies,52.467999999999996
+13/06/2016,Technology,377.97
+14/06/2016,Furniture,3353.7290000000003
+14/06/2016,Office Supplies,55.616
+14/06/2016,Technology,47.754
+15/06/2016,Office Supplies,173.488
+16/06/2016,Office Supplies,55.8
+16/06/2016,Technology,91.475
+17/06/2016,Furniture,1685.43
+17/06/2016,Office Supplies,718.52
+17/06/2016,Technology,596.97
+18/06/2016,Office Supplies,541.938
+19/06/2016,Office Supplies,17.12
+20/06/2016,Furniture,219.258
+20/06/2016,Office Supplies,840.6220000000001
+20/06/2016,Technology,169.668
+21/06/2016,Furniture,353.568
+21/06/2016,Office Supplies,223.54000000000002
+23/06/2016,Office Supplies,1612.75
+23/06/2016,Technology,862.344
+24/06/2016,Office Supplies,355.002
+24/06/2016,Technology,4955.95
+25/06/2016,Furniture,540.016
+25/06/2016,Office Supplies,353.25
+26/06/2016,Furniture,59.88
+26/06/2016,Office Supplies,1549.2240000000002
+26/06/2016,Technology,310.496
+27/06/2016,Furniture,539.658
+27/06/2016,Office Supplies,37.464
+27/06/2016,Technology,201.584
+28/06/2016,Furniture,121.96
+28/06/2016,Office Supplies,395.22
+28/06/2016,Technology,359.976
+29/06/2016,Office Supplies,191.88
+30/06/2016,Furniture,1266.86
+30/06/2016,Office Supplies,35.97
+30/06/2016,Technology,50.12
+01/07/2016,Office Supplies,193.586
+01/07/2016,Technology,1530.79
+02/07/2016,Furniture,723.6139999999999
+02/07/2016,Office Supplies,49.172000000000004
+03/07/2016,Office Supplies,847.6999999999999
+04/07/2016,Furniture,1329.9650000000001
+04/07/2016,Office Supplies,71.88
+04/07/2016,Technology,249.456
+07/07/2016,Furniture,817.278
+07/07/2016,Office Supplies,204.999
+07/07/2016,Technology,2859.954
+08/07/2016,Furniture,662.88
+08/07/2016,Office Supplies,158.048
+08/07/2016,Technology,1795.584
+09/07/2016,Furniture,573.286
+10/07/2016,Office Supplies,553.9040000000001
+10/07/2016,Technology,341.991
+12/07/2016,Technology,95.76
+14/07/2016,Furniture,661.6859999999999
+14/07/2016,Office Supplies,548.09
+14/07/2016,Technology,940.184
+15/07/2016,Furniture,230.28
+15/07/2016,Office Supplies,149.92
+16/07/2016,Furniture,9.552
+16/07/2016,Office Supplies,186.28
+16/07/2016,Technology,714.338
+17/07/2016,Furniture,37.17
+17/07/2016,Office Supplies,1101.526
+17/07/2016,Technology,1046.184
+18/07/2016,Furniture,1539.17
+18/07/2016,Office Supplies,1281.12
+18/07/2016,Technology,71.568
+19/07/2016,Furniture,690.48
+19/07/2016,Office Supplies,420.02000000000004
+19/07/2016,Technology,425.954
+20/07/2016,Technology,89.95
+21/07/2016,Furniture,363.92
+21/07/2016,Office Supplies,627.175
+22/07/2016,Furniture,39.068
+22/07/2016,Office Supplies,1219.03
+22/07/2016,Technology,109.95
+23/07/2016,Office Supplies,273.976
+23/07/2016,Technology,380.611
+24/07/2016,Furniture,253.764
+24/07/2016,Office Supplies,73.2
+25/07/2016,Furniture,3495.4680000000003
+25/07/2016,Office Supplies,563.244
+25/07/2016,Technology,1861.776
+28/07/2016,Furniture,504.87
+28/07/2016,Office Supplies,1528.504
+29/07/2016,Office Supplies,819.154
+30/07/2016,Office Supplies,1770.7759999999998
+31/07/2016,Furniture,1136.068
+31/07/2016,Office Supplies,283.14
+31/07/2016,Technology,754.95
+01/08/2016,Furniture,19.312
+01/08/2016,Office Supplies,65.608
+01/08/2016,Technology,1039.728
+02/08/2016,Furniture,136.464
+02/08/2016,Office Supplies,12.544
+02/08/2016,Technology,333.576
+03/08/2016,Office Supplies,81.54
+03/08/2016,Technology,167.28
+04/08/2016,Furniture,109.8
+04/08/2016,Office Supplies,85.726
+04/08/2016,Technology,302.384
+05/08/2016,Office Supplies,197.05
+06/08/2016,Office Supplies,109.22
+06/08/2016,Technology,211.168
+07/08/2016,Technology,179.97
+08/08/2016,Furniture,513.024
+08/08/2016,Office Supplies,602.18
+09/08/2016,Office Supplies,616.5699999999999
+09/08/2016,Technology,44.784
+11/08/2016,Office Supplies,151.82
+12/08/2016,Furniture,917.2045
+12/08/2016,Office Supplies,1634.812
+12/08/2016,Technology,1399.944
+13/08/2016,Furniture,241.96
+13/08/2016,Office Supplies,417.584
+13/08/2016,Technology,71.98
+14/08/2016,Office Supplies,31.092
+14/08/2016,Technology,892.596
+15/08/2016,Furniture,537.326
+15/08/2016,Office Supplies,199.82
+15/08/2016,Technology,943.12
+16/08/2016,Furniture,161.28
+16/08/2016,Office Supplies,43.26
+17/08/2016,Office Supplies,15.712
+18/08/2016,Furniture,14.896
+18/08/2016,Office Supplies,441.228
+18/08/2016,Technology,39.99
+19/08/2016,Office Supplies,448.792
+20/08/2016,Technology,14.78
+21/08/2016,Furniture,4275.522
+21/08/2016,Office Supplies,143.856
+21/08/2016,Technology,378.914
+22/08/2016,Furniture,98.328
+22/08/2016,Office Supplies,307.022
+23/08/2016,Furniture,555.3119999999999
+23/08/2016,Office Supplies,2126.056
+23/08/2016,Technology,1505.98
+26/08/2016,Furniture,3262.232
+26/08/2016,Office Supplies,383.238
+26/08/2016,Technology,1228.828
+27/08/2016,Furniture,244.615
+27/08/2016,Office Supplies,463.326
+27/08/2016,Technology,59.97
+28/08/2016,Furniture,156.3728
+28/08/2016,Office Supplies,57.076
+28/08/2016,Technology,108.576
+29/08/2016,Furniture,405.79999999999995
+29/08/2016,Office Supplies,108.41199999999999
+29/08/2016,Technology,117.976
+30/08/2016,Furniture,833.784
+30/08/2016,Office Supplies,192.22799999999998
+30/08/2016,Technology,630.858
+31/08/2016,Office Supplies,23.968
+01/09/2016,Furniture,191.82
+01/09/2016,Office Supplies,4993.393999999999
+01/09/2016,Technology,580.938
+02/09/2016,Furniture,1476.154
+02/09/2016,Office Supplies,689.751
+02/09/2016,Technology,4626.2880000000005
+03/09/2016,Furniture,642.396
+03/09/2016,Office Supplies,1442.4180000000001
+03/09/2016,Technology,280.782
+04/09/2016,Furniture,130.81
+04/09/2016,Office Supplies,1321.322
+04/09/2016,Technology,3079.91
+05/09/2016,Furniture,3461.917
+05/09/2016,Office Supplies,1217.647
+05/09/2016,Technology,546.784
+06/09/2016,Furniture,722.352
+06/09/2016,Office Supplies,229.74
+06/09/2016,Technology,361.444
+08/09/2016,Furniture,3374.9816
+08/09/2016,Office Supplies,966.29
+08/09/2016,Technology,152.712
+09/09/2016,Furniture,15.008
+09/09/2016,Office Supplies,69.984
+10/09/2016,Furniture,300.93
+10/09/2016,Office Supplies,553.754
+10/09/2016,Technology,1239.6399999999999
+11/09/2016,Office Supplies,600.6
+11/09/2016,Technology,5900.986
+12/09/2016,Furniture,1679.8719999999998
+12/09/2016,Office Supplies,196.268
+12/09/2016,Technology,167.652
+13/09/2016,Furniture,1336.44
+13/09/2016,Office Supplies,858.3699999999999
+13/09/2016,Technology,179.92
+14/09/2016,Office Supplies,699.4879999999999
+14/09/2016,Technology,437.85
+15/09/2016,Furniture,1128.39
+15/09/2016,Office Supplies,972.792
+16/09/2016,Furniture,395.446
+16/09/2016,Office Supplies,30.44
+17/09/2016,Furniture,430.00800000000004
+17/09/2016,Office Supplies,600.1
+17/09/2016,Technology,1013.018
+18/09/2016,Furniture,3218.7400000000002
+18/09/2016,Office Supplies,1292.3580000000002
+18/09/2016,Technology,239.984
+19/09/2016,Furniture,1599.324
+19/09/2016,Office Supplies,1990.038
+19/09/2016,Technology,249.95
+20/09/2016,Furniture,279.36
+20/09/2016,Office Supplies,952.644
+22/09/2016,Furniture,100.672
+22/09/2016,Office Supplies,352.982
+22/09/2016,Technology,161.916
+23/09/2016,Furniture,1114.426
+23/09/2016,Office Supplies,207.719
+24/09/2016,Furniture,931.202
+24/09/2016,Office Supplies,1354.848
+25/09/2016,Furniture,1624.567
+25/09/2016,Office Supplies,793.862
+25/09/2016,Technology,1024.662
+26/09/2016,Furniture,1627.4805
+26/09/2016,Office Supplies,538.71
+26/09/2016,Technology,531.976
+27/09/2016,Furniture,956.6648
+27/09/2016,Office Supplies,34.737
+27/09/2016,Technology,1001.584
+28/09/2016,Office Supplies,99.136
+29/09/2016,Office Supplies,202.382
+29/09/2016,Technology,1105.41
+30/09/2016,Furniture,523.92
+30/09/2016,Office Supplies,1.964
+01/10/2016,Furniture,567.2860000000001
+01/10/2016,Office Supplies,64.71600000000001
+01/10/2016,Technology,149.412
+02/10/2016,Office Supplies,953.022
+02/10/2016,Technology,17499.95
+03/10/2016,Furniture,1552.508
+03/10/2016,Office Supplies,128.188
+04/10/2016,Furniture,250.94000000000003
+04/10/2016,Office Supplies,209.252
+04/10/2016,Technology,5452.59
+06/10/2016,Office Supplies,58.730000000000004
+06/10/2016,Technology,771.6700000000001
+07/10/2016,Office Supplies,136.112
+07/10/2016,Technology,837.6
+08/10/2016,Furniture,51.712
+08/10/2016,Office Supplies,509.824
+09/10/2016,Furniture,502.4
+09/10/2016,Office Supplies,20.544
+09/10/2016,Technology,23.976
+10/10/2016,Furniture,225.666
+10/10/2016,Office Supplies,41.095
+10/10/2016,Technology,15.992
+11/10/2016,Office Supplies,33.064
+13/10/2016,Furniture,1017.71
+13/10/2016,Office Supplies,440.932
+13/10/2016,Technology,191.976
+14/10/2016,Furniture,102.592
+14/10/2016,Office Supplies,291.91200000000003
+14/10/2016,Technology,2941.384
+15/10/2016,Office Supplies,1614.65
+15/10/2016,Technology,5.5
+16/10/2016,Furniture,142.182
+17/10/2016,Furniture,241.64600000000002
+17/10/2016,Office Supplies,2261.73
+17/10/2016,Technology,449.97
+18/10/2016,Furniture,307.92
+20/10/2016,Furniture,504.922
+20/10/2016,Office Supplies,123.572
+20/10/2016,Technology,317.68
+21/10/2016,Furniture,2012.7600000000002
+21/10/2016,Office Supplies,5499.44
+21/10/2016,Technology,439.392
+22/10/2016,Furniture,173.26
+22/10/2016,Office Supplies,15.02
+23/10/2016,Furniture,16.156
+23/10/2016,Office Supplies,451.26599999999996
+24/10/2016,Office Supplies,15.552
+24/10/2016,Technology,1349.946
+25/10/2016,Technology,783.96
+27/10/2016,Furniture,758.8240000000001
+27/10/2016,Office Supplies,219.96599999999998
+28/10/2016,Furniture,1111.368
+28/10/2016,Office Supplies,1485.277
+28/10/2016,Technology,302.376
+29/10/2016,Furniture,67
+29/10/2016,Office Supplies,64.154
+30/10/2016,Office Supplies,159.002
+31/10/2016,Furniture,2265.7250000000004
+31/10/2016,Office Supplies,1484.7740000000001
+01/11/2016,Office Supplies,363.462
+01/11/2016,Technology,89.91199999999999
+03/11/2016,Furniture,1554.779
+03/11/2016,Office Supplies,1913.076
+03/11/2016,Technology,334.94100000000003
+04/11/2016,Furniture,2007.59
+04/11/2016,Office Supplies,1194.828
+04/11/2016,Technology,686.4
+05/11/2016,Furniture,2964.4408
+05/11/2016,Office Supplies,464.82
+05/11/2016,Technology,837.638
+06/11/2016,Furniture,563.5360000000001
+06/11/2016,Office Supplies,209.72
+07/11/2016,Furniture,1662.416
+07/11/2016,Office Supplies,924.172
+07/11/2016,Technology,1223.876
+08/11/2016,Furniture,993.9000000000001
+09/11/2016,Technology,479.97
+10/11/2016,Furniture,1004.988
+10/11/2016,Office Supplies,2113.758
+10/11/2016,Technology,1604.732
+11/11/2016,Furniture,3472.65
+11/11/2016,Office Supplies,1021.7280000000001
+11/11/2016,Technology,449.918
+12/11/2016,Furniture,4158.352
+12/11/2016,Office Supplies,520.626
+12/11/2016,Technology,235.96
+13/11/2016,Furniture,54.08
+13/11/2016,Office Supplies,611.0980000000001
+13/11/2016,Technology,2279.96
+14/11/2016,Furniture,856.56
+14/11/2016,Office Supplies,113.596
+14/11/2016,Technology,1803.9060000000002
+15/11/2016,Furniture,630.024
+15/11/2016,Office Supplies,1054.928
+15/11/2016,Technology,460.76599999999996
+16/11/2016,Office Supplies,36.72
+17/11/2016,Office Supplies,75.508
+17/11/2016,Technology,67.176
+18/11/2016,Furniture,557.068
+18/11/2016,Office Supplies,1425.712
+18/11/2016,Technology,1976.152
+19/11/2016,Furniture,34.288000000000004
+19/11/2016,Office Supplies,532.2139999999999
+19/11/2016,Technology,71.96
+20/11/2016,Furniture,702.0360000000001
+20/11/2016,Office Supplies,620.623
+20/11/2016,Technology,1747.674
+21/11/2016,Furniture,514.21
+21/11/2016,Office Supplies,145.82
+21/11/2016,Technology,516.861
+22/11/2016,Furniture,39.88
+22/11/2016,Office Supplies,253.132
+22/11/2016,Technology,24.032
+23/11/2016,Furniture,84.81599999999999
+23/11/2016,Office Supplies,15.8
+24/11/2016,Furniture,2324.632
+24/11/2016,Office Supplies,1538.086
+24/11/2016,Technology,2531.82
+25/11/2016,Furniture,1762.962
+25/11/2016,Office Supplies,1115.728
+25/11/2016,Technology,5099.860999999999
+26/11/2016,Furniture,4315.22
+26/11/2016,Office Supplies,419.571
+26/11/2016,Technology,3594.952
+27/11/2016,Furniture,362.583
+27/11/2016,Office Supplies,802.554
+27/11/2016,Technology,486.102
+28/11/2016,Furniture,530.472
+28/11/2016,Office Supplies,2456.018
+28/11/2016,Technology,441.882
+29/11/2016,Furniture,242.176
+29/11/2016,Technology,58.416
+30/11/2016,Furniture,389.97
+30/11/2016,Office Supplies,543.98
+30/11/2016,Technology,36.192
+01/12/2016,Furniture,1801.2649999999999
+01/12/2016,Office Supplies,4382.352
+01/12/2016,Technology,1181.838
+02/12/2016,Furniture,868.8040000000001
+02/12/2016,Office Supplies,3020.2619999999997
+02/12/2016,Technology,795.5500000000001
+03/12/2016,Furniture,2140.888
+03/12/2016,Office Supplies,1478.9779999999998
+03/12/2016,Technology,1649.95
+04/12/2016,Furniture,113.79
+04/12/2016,Office Supplies,752.346
+04/12/2016,Technology,78.15
+05/12/2016,Furniture,2239
+05/12/2016,Office Supplies,1793.604
+05/12/2016,Technology,1234.4
+06/12/2016,Office Supplies,2287.98
+06/12/2016,Technology,1590.296
+08/12/2016,Furniture,2698.454
+08/12/2016,Office Supplies,463.891
+08/12/2016,Technology,1546.75
+09/12/2016,Furniture,1136.8339999999998
+09/12/2016,Office Supplies,588.049
+09/12/2016,Technology,130.6
+10/12/2016,Furniture,1746.468
+10/12/2016,Office Supplies,1668.492
+10/12/2016,Technology,44.75
+11/12/2016,Furniture,2461.7960000000003
+11/12/2016,Office Supplies,1451.6
+11/12/2016,Technology,2188.854
+12/12/2016,Furniture,477.47
+12/12/2016,Office Supplies,211.81300000000002
+12/12/2016,Technology,1291.8319999999999
+13/12/2016,Furniture,1114.272
+13/12/2016,Office Supplies,15.936
+13/12/2016,Technology,63.88
+14/12/2016,Furniture,611.724
+14/12/2016,Office Supplies,216.93
+15/12/2016,Furniture,2231.895
+15/12/2016,Office Supplies,405.192
+16/12/2016,Furniture,563.92
+16/12/2016,Office Supplies,43.412000000000006
+16/12/2016,Technology,21.21
+17/12/2016,Furniture,2003.52
+17/12/2016,Office Supplies,10016.014
+17/12/2016,Technology,165.6
+18/12/2016,Furniture,1183.99
+18/12/2016,Office Supplies,4813.818
+18/12/2016,Technology,1053.542
+19/12/2016,Furniture,759.8900000000001
+19/12/2016,Office Supplies,55.221999999999994
+20/12/2016,Furniture,18.92
+20/12/2016,Office Supplies,49.32
+20/12/2016,Technology,66.3
+22/12/2016,Furniture,919.3040000000001
+22/12/2016,Office Supplies,112.264
+22/12/2016,Technology,11.56
+23/12/2016,Furniture,1002.84
+23/12/2016,Office Supplies,1589.751
+23/12/2016,Technology,4373.266
+24/12/2016,Furniture,843.52
+24/12/2016,Office Supplies,641.0899999999999
+24/12/2016,Technology,453.65
+25/12/2016,Furniture,6636.862999999999
+25/12/2016,Office Supplies,205.13799999999998
+25/12/2016,Technology,3646.054
+26/12/2016,Furniture,1262.004
+26/12/2016,Office Supplies,175.06
+26/12/2016,Technology,392.35400000000004
+27/12/2016,Furniture,845.488
+27/12/2016,Office Supplies,74.00200000000001
+27/12/2016,Technology,40
+29/12/2016,Furniture,825.01
+29/12/2016,Office Supplies,452.67
+30/12/2016,Furniture,170.786
+30/12/2016,Office Supplies,602.988
+31/12/2016,Office Supplies,429.392
+31/12/2016,Technology,302.376
+01/01/2017,Furniture,975.49
+01/01/2017,Office Supplies,506.338
+02/01/2017,Furniture,913.43
+02/01/2017,Office Supplies,453.834
+02/01/2017,Technology,712.2900000000001
+03/01/2017,Office Supplies,2070.272
+06/01/2017,Office Supplies,33.74
+07/01/2017,Office Supplies,335.608
+07/01/2017,Technology,3059.982
+08/01/2017,Furniture,892.98
+09/01/2017,Office Supplies,274.491
+12/01/2017,Furniture,37.68
+12/01/2017,Office Supplies,810.84
+13/01/2017,Furniture,212.94
+13/01/2017,Office Supplies,4406.39
+14/01/2017,Furniture,18.96
+14/01/2017,Office Supplies,508.39
+14/01/2017,Technology,528.688
+15/01/2017,Office Supplies,2029.7040000000002
+15/01/2017,Technology,110.576
+16/01/2017,Furniture,730.2620000000001
+16/01/2017,Office Supplies,5500.03
+19/01/2017,Furniture,919.2389999999999
+19/01/2017,Office Supplies,664.876
+19/01/2017,Technology,429.6
+20/01/2017,Furniture,207.846
+20/01/2017,Office Supplies,39.239999999999995
+20/01/2017,Technology,520.752
+21/01/2017,Furniture,84.98
+21/01/2017,Office Supplies,1145.78
+21/01/2017,Technology,1315.883
+22/01/2017,Office Supplies,1212.422
+22/01/2017,Technology,2999.95
+23/01/2017,Furniture,210.98
+23/01/2017,Office Supplies,57.018
+23/01/2017,Technology,182.336
+24/01/2017,Office Supplies,308.31399999999996
+24/01/2017,Technology,110.352
+26/01/2017,Furniture,62.72
+26/01/2017,Office Supplies,52.629999999999995
+26/01/2017,Technology,2939.93
+27/01/2017,Office Supplies,14.016
+27/01/2017,Technology,317.898
+28/01/2017,Furniture,37.74
+28/01/2017,Office Supplies,279.9
+28/01/2017,Technology,689.88
+29/01/2017,Furniture,14.91
+29/01/2017,Office Supplies,279.932
+30/01/2017,Furniture,643.875
+30/01/2017,Office Supplies,290.524
+30/01/2017,Technology,2814.9359999999997
+02/02/2017,Furniture,296.84000000000003
+02/02/2017,Office Supplies,316.56
+02/02/2017,Technology,299.954
+03/02/2017,Furniture,22.2
+03/02/2017,Office Supplies,900.127
+04/02/2017,Office Supplies,32.67
+05/02/2017,Office Supplies,1891.8120000000001
+05/02/2017,Technology,371.2
+06/02/2017,Furniture,600.754
+06/02/2017,Office Supplies,76.14
+06/02/2017,Technology,227.46
+09/02/2017,Furniture,25.104
+09/02/2017,Office Supplies,620.6759999999999
+09/02/2017,Technology,127.984
+10/02/2017,Furniture,203.983
+10/02/2017,Office Supplies,23.12
+11/02/2017,Furniture,1110.704
+11/02/2017,Office Supplies,42.036
+11/02/2017,Technology,88.776
+13/02/2017,Furniture,107.53
+13/02/2017,Office Supplies,150.94
+13/02/2017,Technology,799.96
+16/02/2017,Furniture,608.25
+16/02/2017,Office Supplies,714.202
+16/02/2017,Technology,14.99
+17/02/2017,Furniture,1955.5704
+17/02/2017,Office Supplies,359.36499999999995
+17/02/2017,Technology,649.8820000000001
+18/02/2017,Office Supplies,9.82
+18/02/2017,Technology,277.506
+19/02/2017,Furniture,44.67
+19/02/2017,Office Supplies,1269.9199999999998
+20/02/2017,Furniture,477.84400000000005
+20/02/2017,Office Supplies,90.91
+20/02/2017,Technology,581.536
+21/02/2017,Technology,47.904
+23/02/2017,Office Supplies,45.839999999999996
+23/02/2017,Technology,71.96
+24/02/2017,Office Supplies,128.876
+24/02/2017,Technology,1319.8
+25/02/2017,Furniture,428.70399999999995
+25/02/2017,Office Supplies,1.788
+26/02/2017,Furniture,984.1840000000001
+26/02/2017,Office Supplies,715.35
+26/02/2017,Technology,1148.112
+28/02/2017,Office Supplies,17.62
+02/03/2017,Furniture,441.96
+02/03/2017,Office Supplies,331.45
+02/03/2017,Technology,676.716
+03/03/2017,Furniture,751.004
+03/03/2017,Office Supplies,99.67999999999999
+03/03/2017,Technology,1149.42
+04/03/2017,Furniture,103.5
+04/03/2017,Office Supplies,125.32199999999999
+05/03/2017,Office Supplies,940.05
+05/03/2017,Technology,299.97
+06/03/2017,Furniture,71.97
+06/03/2017,Office Supplies,499.882
+06/03/2017,Technology,206.384
+07/03/2017,Office Supplies,117.51
+07/03/2017,Technology,49.08
+08/03/2017,Office Supplies,843.1
+09/03/2017,Office Supplies,30.84
+09/03/2017,Technology,679.9639999999999
+10/03/2017,Furniture,983.976
+10/03/2017,Office Supplies,67.124
+10/03/2017,Technology,201.85199999999998
+11/03/2017,Furniture,181.484
+11/03/2017,Office Supplies,951.4939999999999
+11/03/2017,Technology,840.73
+12/03/2017,Office Supplies,283.35
+12/03/2017,Technology,69.93
+13/03/2017,Furniture,89.768
+13/03/2017,Office Supplies,2833.674
+13/03/2017,Technology,1867.908
+14/03/2017,Technology,49.616
+16/03/2017,Furniture,51.264
+16/03/2017,Office Supplies,653.341
+16/03/2017,Technology,1309.776
+17/03/2017,Office Supplies,294.386
+17/03/2017,Technology,248.36
+18/03/2017,Furniture,82.524
+18/03/2017,Office Supplies,379.874
+18/03/2017,Technology,565.36
+19/03/2017,Furniture,728.0899999999999
+19/03/2017,Office Supplies,481.154
+19/03/2017,Technology,957.004
+20/03/2017,Furniture,2.91
+20/03/2017,Office Supplies,392.728
+20/03/2017,Technology,503.93
+21/03/2017,Furniture,1828.0200000000002
+21/03/2017,Office Supplies,1504.616
+23/03/2017,Furniture,211.84
+23/03/2017,Office Supplies,604.268
+23/03/2017,Technology,13999.96
+24/03/2017,Furniture,479.61
+24/03/2017,Office Supplies,281.698
+24/03/2017,Technology,495.99
+25/03/2017,Furniture,1986.52
+25/03/2017,Office Supplies,418.978
+25/03/2017,Technology,1161.528
+26/03/2017,Furniture,318.408
+26/03/2017,Office Supplies,217.342
+26/03/2017,Technology,2717.13
+27/03/2017,Furniture,2142.244
+27/03/2017,Office Supplies,545.1800000000001
+27/03/2017,Technology,246.09199999999998
+28/03/2017,Furniture,48.04
+28/03/2017,Office Supplies,923.942
+28/03/2017,Technology,532.72
+29/03/2017,Office Supplies,81.4
+30/03/2017,Furniture,94.2
+30/03/2017,Office Supplies,397.415
+30/03/2017,Technology,164.792
+31/03/2017,Furniture,296.1128
+31/03/2017,Office Supplies,250.488
+31/03/2017,Technology,4434.41
+01/04/2017,Furniture,828.966
+01/04/2017,Office Supplies,320.062
+01/04/2017,Technology,4823.96
+02/04/2017,Furniture,436.91
+02/04/2017,Office Supplies,26.06
+02/04/2017,Technology,360
+03/04/2017,Furniture,25.472
+03/04/2017,Office Supplies,7.056
+04/04/2017,Office Supplies,264.39
+04/04/2017,Technology,544.0799999999999
+06/04/2017,Office Supplies,114.41999999999999
+07/04/2017,Furniture,1112.5465
+07/04/2017,Office Supplies,21.584
+07/04/2017,Technology,837.16
+08/04/2017,Furniture,637.1399999999999
+08/04/2017,Office Supplies,5764.79
+09/04/2017,Office Supplies,1626.71
+10/04/2017,Furniture,48.992
+10/04/2017,Office Supplies,510.81100000000004
+10/04/2017,Technology,195.726
+11/04/2017,Office Supplies,92.736
+11/04/2017,Technology,227.07
+12/04/2017,Office Supplies,69.66
+13/04/2017,Furniture,436.704
+13/04/2017,Office Supplies,909.1199999999999
+14/04/2017,Furniture,515.074
+14/04/2017,Office Supplies,137.856
+15/04/2017,Furniture,196.45
+15/04/2017,Office Supplies,135.888
+16/04/2017,Furniture,102.833
+16/04/2017,Office Supplies,815.616
+16/04/2017,Technology,25.98
+17/04/2017,Furniture,278.664
+17/04/2017,Office Supplies,327.92
+17/04/2017,Technology,2824.875
+20/04/2017,Furniture,470.394
+20/04/2017,Office Supplies,1440.464
+20/04/2017,Technology,122.382
+21/04/2017,Furniture,1071.42
+21/04/2017,Office Supplies,123.628
+21/04/2017,Technology,59.516
+22/04/2017,Furniture,272.632
+22/04/2017,Office Supplies,675.06
+23/04/2017,Furniture,567.2520000000001
+23/04/2017,Office Supplies,431.222
+23/04/2017,Technology,200.748
+24/04/2017,Office Supplies,306.578
+24/04/2017,Technology,621.98
+25/04/2017,Furniture,344.981
+25/04/2017,Office Supplies,225.16199999999998
+25/04/2017,Technology,107.97
+26/04/2017,Furniture,1.988
+26/04/2017,Office Supplies,59.620000000000005
+27/04/2017,Furniture,359.8456
+27/04/2017,Office Supplies,216.73000000000002
+28/04/2017,Office Supplies,43.312
+28/04/2017,Technology,751.984
+29/04/2017,Furniture,1048.35
+29/04/2017,Office Supplies,4.91
+30/04/2017,Furniture,309.344
+30/04/2017,Office Supplies,400.826
+30/04/2017,Technology,679.956
+01/05/2017,Furniture,4051.5339999999997
+01/05/2017,Office Supplies,7.936
+01/05/2017,Technology,48.9
+02/05/2017,Furniture,129.93
+02/05/2017,Office Supplies,109.62
+02/05/2017,Technology,159.56
+03/05/2017,Furniture,405.918
+03/05/2017,Office Supplies,980.428
+04/05/2017,Furniture,300.904
+04/05/2017,Office Supplies,904.541
+04/05/2017,Technology,183.96
+05/05/2017,Furniture,89.991
+05/05/2017,Office Supplies,95.132
+06/05/2017,Furniture,623.4648
+06/05/2017,Office Supplies,1332.0249999999999
+06/05/2017,Technology,1227.88
+07/05/2017,Furniture,1962.0900000000001
+07/05/2017,Office Supplies,87.444
+07/05/2017,Technology,499.934
+08/05/2017,Furniture,176.04999999999998
+08/05/2017,Office Supplies,122.55199999999999
+08/05/2017,Technology,3359.952
+09/05/2017,Furniture,493.85
+09/05/2017,Office Supplies,384.392
+09/05/2017,Technology,199.98
+11/05/2017,Furniture,217.97500000000002
+11/05/2017,Office Supplies,231.494
+12/05/2017,Furniture,328.33000000000004
+12/05/2017,Office Supplies,554.654
+12/05/2017,Technology,87.4
+13/05/2017,Furniture,458.43
+13/05/2017,Office Supplies,2019.978
+13/05/2017,Technology,587.97
+14/05/2017,Furniture,1179.6699999999998
+14/05/2017,Office Supplies,964.53
+14/05/2017,Technology,2037.862
+15/05/2017,Furniture,303.544
+15/05/2017,Office Supplies,77.008
+15/05/2017,Technology,40.711999999999996
+16/05/2017,Office Supplies,221.024
+18/05/2017,Furniture,342
+18/05/2017,Office Supplies,902.076
+18/05/2017,Technology,586.432
+19/05/2017,Furniture,2624.58
+19/05/2017,Office Supplies,1108.57
+19/05/2017,Technology,1186.0320000000002
+20/05/2017,Furniture,525.2520000000001
+20/05/2017,Office Supplies,1005.998
+20/05/2017,Technology,1466.328
+21/05/2017,Furniture,520.05
+21/05/2017,Office Supplies,17.97
+22/05/2017,Furniture,181.986
+22/05/2017,Office Supplies,86.116
+22/05/2017,Technology,68.46
+23/05/2017,Furniture,171.288
+23/05/2017,Office Supplies,70.14800000000001
+25/05/2017,Furniture,18.84
+25/05/2017,Office Supplies,747.186
+25/05/2017,Technology,120
+26/05/2017,Office Supplies,247.16
+26/05/2017,Technology,23.08
+27/05/2017,Furniture,512.3
+27/05/2017,Office Supplies,604.91
+27/05/2017,Technology,967.698
+28/05/2017,Furniture,799.689
+28/05/2017,Office Supplies,158.118
+28/05/2017,Technology,522.296
+29/05/2017,Furniture,71.664
+29/05/2017,Office Supplies,619.444
+30/05/2017,Furniture,468.2284
+30/05/2017,Office Supplies,76.51
+30/05/2017,Technology,192.152
+01/06/2017,Furniture,1925.88
+01/06/2017,Office Supplies,2850.246
+01/06/2017,Technology,282.236
+02/06/2017,Office Supplies,132.73600000000002
+02/06/2017,Technology,2.97
+03/06/2017,Furniture,661.504
+03/06/2017,Office Supplies,247.26999999999998
+03/06/2017,Technology,2043.262
+04/06/2017,Furniture,62.32
+04/06/2017,Office Supplies,145.11
+04/06/2017,Technology,71.984
+05/06/2017,Office Supplies,20.736
+05/06/2017,Technology,470.376
+06/06/2017,Furniture,4.95
+06/06/2017,Office Supplies,26.4
+08/06/2017,Furniture,1497.666
+08/06/2017,Office Supplies,240.732
+08/06/2017,Technology,488.64
+09/06/2017,Furniture,132.901
+09/06/2017,Office Supplies,806.232
+10/06/2017,Furniture,514.165
+10/06/2017,Office Supplies,1497.9219999999998
+10/06/2017,Technology,501.256
+11/06/2017,Furniture,455.212
+11/06/2017,Office Supplies,739.8820000000001
+11/06/2017,Technology,385.8
+12/06/2017,Furniture,1337.124
+12/06/2017,Office Supplies,206.948
+12/06/2017,Technology,135.89600000000002
+13/06/2017,Furniture,761.4380000000001
+13/06/2017,Office Supplies,346.596
+13/06/2017,Technology,47.984
+15/06/2017,Furniture,928.2079999999999
+15/06/2017,Office Supplies,481.454
+15/06/2017,Technology,2647.848
+16/06/2017,Furniture,1514.92
+16/06/2017,Office Supplies,471.352
+16/06/2017,Technology,737.922
+17/06/2017,Furniture,155.25
+17/06/2017,Office Supplies,235.582
+17/06/2017,Technology,3505.84
+18/06/2017,Furniture,917.9235
+18/06/2017,Office Supplies,113.232
+19/06/2017,Furniture,1306.705
+19/06/2017,Office Supplies,583.788
+19/06/2017,Technology,225.448
+20/06/2017,Office Supplies,134.348
+20/06/2017,Technology,893.88
+21/06/2017,Furniture,17.92
+21/06/2017,Office Supplies,577.736
+22/06/2017,Furniture,487.96
+22/06/2017,Office Supplies,91.059
+24/06/2017,Furniture,449.454
+24/06/2017,Office Supplies,838.16
+25/06/2017,Furniture,1272.184
+25/06/2017,Office Supplies,87.688
+25/06/2017,Technology,148.48
+26/06/2017,Furniture,800.0020000000001
+26/06/2017,Office Supplies,1304.2
+26/06/2017,Technology,2119.934
+27/06/2017,Furniture,317.94599999999997
+27/06/2017,Office Supplies,39.510000000000005
+27/06/2017,Technology,1287.45
+29/06/2017,Furniture,1381.2932
+29/06/2017,Office Supplies,3078.388
+29/06/2017,Technology,62.31
+30/06/2017,Furniture,2105.661
+30/06/2017,Office Supplies,1614.732
+30/06/2017,Technology,1001.584
+01/07/2017,Office Supplies,639.83
+02/07/2017,Office Supplies,169.192
+03/07/2017,Furniture,1016.678
+03/07/2017,Office Supplies,459.78400000000005
+03/07/2017,Technology,5486.942
+05/07/2017,Furniture,332.028
+05/07/2017,Office Supplies,64.366
+05/07/2017,Technology,79.96
+06/07/2017,Furniture,361.376
+06/07/2017,Office Supplies,19.002000000000002
+07/07/2017,Furniture,87.21
+07/07/2017,Office Supplies,52.356
+07/07/2017,Technology,1480.684
+08/07/2017,Furniture,484.1
+08/07/2017,Office Supplies,1304.2640000000001
+08/07/2017,Technology,191.9
+09/07/2017,Furniture,526.45
+09/07/2017,Office Supplies,886.784
+09/07/2017,Technology,257.98
+10/07/2017,Furniture,18.84
+10/07/2017,Office Supplies,340.374
+11/07/2017,Office Supplies,236.89000000000001
+11/07/2017,Technology,1492.002
+12/07/2017,Office Supplies,3.816
+13/07/2017,Furniture,91.008
+13/07/2017,Office Supplies,373.94
+13/07/2017,Technology,39.594
+14/07/2017,Furniture,692.45
+14/07/2017,Office Supplies,405.192
+14/07/2017,Technology,2501.292
+15/07/2017,Furniture,1847.529
+15/07/2017,Office Supplies,242.8
+15/07/2017,Technology,41.9
+16/07/2017,Furniture,313.724
+16/07/2017,Office Supplies,2.912
+17/07/2017,Furniture,1241.149
+17/07/2017,Office Supplies,200.76
+17/07/2017,Technology,749.9639999999999
+18/07/2017,Furniture,1473.888
+18/07/2017,Office Supplies,32.936
+18/07/2017,Technology,599.97
+20/07/2017,Furniture,539.4159999999999
+20/07/2017,Office Supplies,1353.822
+20/07/2017,Technology,389.97
+21/07/2017,Furniture,661.44
+21/07/2017,Office Supplies,843.86
+21/07/2017,Technology,2180.6440000000002
+22/07/2017,Furniture,526.344
+22/07/2017,Technology,29.97
+23/07/2017,Office Supplies,338.488
+23/07/2017,Technology,559.7
+24/07/2017,Technology,2399.96
+25/07/2017,Furniture,456.79999999999995
+25/07/2017,Office Supplies,341.942
+26/07/2017,Furniture,362.352
+26/07/2017,Technology,1649.95
+27/07/2017,Furniture,324.65
+27/07/2017,Office Supplies,39.16
+27/07/2017,Technology,778.8699999999999
+28/07/2017,Office Supplies,24.964
+28/07/2017,Technology,1145.6
+29/07/2017,Furniture,418.63
+29/07/2017,Office Supplies,273.332
+29/07/2017,Technology,699.332
+30/07/2017,Office Supplies,433.426
+30/07/2017,Technology,89.95
+31/07/2017,Furniture,36.96
+31/07/2017,Office Supplies,1157.276
+31/07/2017,Technology,363.79200000000003
+01/08/2017,Office Supplies,277.724
+01/08/2017,Technology,1807.926
+03/08/2017,Furniture,307.332
+03/08/2017,Office Supplies,184.2
+03/08/2017,Technology,39.816
+04/08/2017,Office Supplies,20.07
+05/08/2017,Office Supplies,423.89599999999996
+05/08/2017,Technology,79.78
+06/08/2017,Furniture,161.14000000000001
+06/08/2017,Office Supplies,437.93600000000004
+06/08/2017,Technology,824.95
+07/08/2017,Furniture,258.93399999999997
+07/08/2017,Office Supplies,2033.69
+07/08/2017,Technology,1187
+10/08/2017,Furniture,121.3
+10/08/2017,Office Supplies,247.27999999999997
+10/08/2017,Technology,1454.49
+11/08/2017,Office Supplies,555.1419999999999
+11/08/2017,Technology,153.584
+12/08/2017,Furniture,1834.8200000000002
+12/08/2017,Office Supplies,1140.7
+12/08/2017,Technology,717.564
+13/08/2017,Furniture,455.632
+13/08/2017,Office Supplies,2185.9480000000003
+13/08/2017,Technology,1.584
+14/08/2017,Furniture,418.296
+14/08/2017,Office Supplies,22.439999999999998
+15/08/2017,Office Supplies,1949.872
+16/08/2017,Office Supplies,80.564
+17/08/2017,Furniture,4970.114
+17/08/2017,Office Supplies,4377.0380000000005
+17/08/2017,Technology,170.136
+18/08/2017,Furniture,204.38
+18/08/2017,Office Supplies,4472.954
+18/08/2017,Technology,2401.15
+19/08/2017,Office Supplies,512.446
+20/08/2017,Office Supplies,549.11
+20/08/2017,Technology,143.84
+21/08/2017,Furniture,2093.584
+21/08/2017,Office Supplies,5992.322
+21/08/2017,Technology,465.148
+22/08/2017,Furniture,524.54
+23/08/2017,Furniture,2.784
+23/08/2017,Office Supplies,219.664
+23/08/2017,Technology,4367.896
+24/08/2017,Office Supplies,685.0560000000002
+25/08/2017,Furniture,130.98
+25/08/2017,Office Supplies,231.008
+26/08/2017,Furniture,64.96
+26/08/2017,Office Supplies,53.72
+26/08/2017,Technology,71.98
+27/08/2017,Furniture,2037.74
+27/08/2017,Office Supplies,1804.956
+27/08/2017,Technology,2347.842
+28/08/2017,Furniture,1137.75
+28/08/2017,Office Supplies,270.714
+28/08/2017,Technology,35.168
+29/08/2017,Furniture,148.02
+29/08/2017,Office Supplies,87.44800000000001
+31/08/2017,Furniture,569.568
+31/08/2017,Office Supplies,1243.954
+31/08/2017,Technology,1349.308
+01/09/2017,Furniture,896.72
+01/09/2017,Office Supplies,345.1
+01/09/2017,Technology,19.99
+02/09/2017,Furniture,2527.552
+02/09/2017,Office Supplies,2852.518
+02/09/2017,Technology,3974.784
+03/09/2017,Furniture,620.631
+03/09/2017,Office Supplies,589.448
+03/09/2017,Technology,385.77000000000004
+04/09/2017,Furniture,3722.982
+04/09/2017,Office Supplies,1477.484
+04/09/2017,Technology,159.736
+05/09/2017,Office Supplies,237.476
+05/09/2017,Technology,89.568
+07/09/2017,Furniture,470.68800000000005
+07/09/2017,Office Supplies,2388.661
+07/09/2017,Technology,989.216
+08/09/2017,Furniture,1000.239
+08/09/2017,Office Supplies,236.072
+08/09/2017,Technology,948.016
+09/09/2017,Furniture,482.56399999999996
+09/09/2017,Office Supplies,1427.003
+09/09/2017,Technology,2446.494
+10/09/2017,Furniture,362.352
+10/09/2017,Office Supplies,1290.5240000000001
+10/09/2017,Technology,853.77
+11/09/2017,Furniture,2810.894
+11/09/2017,Office Supplies,2529.2000000000003
+11/09/2017,Technology,223.91199999999998
+12/09/2017,Furniture,8.36
+12/09/2017,Office Supplies,483.19
+13/09/2017,Office Supplies,15.92
+14/09/2017,Furniture,830.718
+14/09/2017,Office Supplies,1307.08
+14/09/2017,Technology,2229.549
+15/09/2017,Furniture,2612.768
+15/09/2017,Office Supplies,3482.828
+15/09/2017,Technology,1189.43
+16/09/2017,Furniture,22.512
+16/09/2017,Office Supplies,633.1859999999999
+16/09/2017,Technology,193.952
+17/09/2017,Furniture,2335.29
+17/09/2017,Office Supplies,658.206
+17/09/2017,Technology,1985.73
+18/09/2017,Furniture,30.14
+18/09/2017,Office Supplies,872.79
+18/09/2017,Technology,609
+19/09/2017,Furniture,481.804
+19/09/2017,Office Supplies,262.954
+19/09/2017,Technology,903.4300000000001
+20/09/2017,Furniture,5496.174
+20/09/2017,Office Supplies,113.824
+20/09/2017,Technology,1749.92
+21/09/2017,Office Supplies,186.212
+21/09/2017,Technology,151.96
+22/09/2017,Furniture,254.03
+22/09/2017,Office Supplies,5854.139
+22/09/2017,Technology,1763.0439999999999
+23/09/2017,Furniture,804.732
+23/09/2017,Office Supplies,1011.1759999999999
+23/09/2017,Technology,579.8779999999999
+24/09/2017,Furniture,1427.24
+24/09/2017,Office Supplies,438.578
+24/09/2017,Technology,4584.644
+25/09/2017,Furniture,805.7360000000001
+25/09/2017,Office Supplies,486.517
+25/09/2017,Technology,119.96
+26/09/2017,Furniture,428.37600000000003
+26/09/2017,Office Supplies,1058.2
+28/09/2017,Furniture,42.016000000000005
+28/09/2017,Office Supplies,462.871
+28/09/2017,Technology,54.384
+29/09/2017,Furniture,553.688
+29/09/2017,Office Supplies,813.906
+29/09/2017,Technology,576.486
+30/09/2017,Office Supplies,380.78
+30/09/2017,Technology,159.98
+01/10/2017,Furniture,559.76
+01/10/2017,Office Supplies,609.066
+01/10/2017,Technology,1809.64
+02/10/2017,Furniture,2758.4640000000004
+02/10/2017,Office Supplies,2139.6240000000003
+02/10/2017,Technology,519.934
+03/10/2017,Furniture,255.20800000000003
+03/10/2017,Office Supplies,1877.302
+03/10/2017,Technology,371.97
+04/10/2017,Furniture,19.98
+05/10/2017,Furniture,935.802
+05/10/2017,Office Supplies,228.308
+05/10/2017,Technology,5520.505999999999
+06/10/2017,Furniture,41.96
+06/10/2017,Office Supplies,1137.732
+06/10/2017,Technology,319.96
+07/10/2017,Furniture,462.43
+07/10/2017,Office Supplies,739.822
+07/10/2017,Technology,1546.958
+08/10/2017,Furniture,145.764
+08/10/2017,Office Supplies,83.44
+08/10/2017,Technology,379.152
+09/10/2017,Furniture,1333.393
+09/10/2017,Office Supplies,163.19600000000003
+10/10/2017,Furniture,239.358
+12/10/2017,Furniture,3123.328
+12/10/2017,Office Supplies,233.788
+12/10/2017,Technology,2278.238
+13/10/2017,Furniture,1514.996
+13/10/2017,Office Supplies,6648.882
+13/10/2017,Technology,241.924
+14/10/2017,Furniture,9.46
+14/10/2017,Office Supplies,78.512
+14/10/2017,Technology,46.36
+15/10/2017,Furniture,532.96
+15/10/2017,Office Supplies,484.98
+16/10/2017,Furniture,2422.558
+16/10/2017,Office Supplies,432.526
+16/10/2017,Technology,618.513
+17/10/2017,Office Supplies,73.56
+17/10/2017,Technology,52.792
+19/10/2017,Furniture,531.1622
+19/10/2017,Office Supplies,1924.452
+19/10/2017,Technology,326.25600000000003
+20/10/2017,Furniture,328.29999999999995
+20/10/2017,Office Supplies,989.574
+20/10/2017,Technology,15.984
+21/10/2017,Furniture,1470.238
+21/10/2017,Office Supplies,1268.655
+21/10/2017,Technology,1798.308
+22/10/2017,Furniture,1005.3409999999999
+22/10/2017,Office Supplies,468.27799999999996
+22/10/2017,Technology,13685.258
+23/10/2017,Furniture,1193.4
+23/10/2017,Office Supplies,380.07400000000007
+23/10/2017,Technology,1778.92
+24/10/2017,Furniture,517.405
+24/10/2017,Office Supplies,11.68
+26/10/2017,Furniture,356.85
+26/10/2017,Office Supplies,442.836
+26/10/2017,Technology,200.18200000000002
+27/10/2017,Furniture,746.241
+27/10/2017,Office Supplies,145.095
+27/10/2017,Technology,194.98399999999998
+28/10/2017,Furniture,77.952
+28/10/2017,Office Supplies,280.59799999999996
+28/10/2017,Technology,50.176
+29/10/2017,Office Supplies,46.96
+30/10/2017,Furniture,1301.758
+30/10/2017,Office Supplies,2133.092
+30/10/2017,Technology,590.88
+31/10/2017,Office Supplies,15.16
+31/10/2017,Technology,508.768
+01/11/2017,Furniture,2665.62
+01/11/2017,Office Supplies,255.81
+02/11/2017,Furniture,1159.624
+02/11/2017,Office Supplies,2025.652
+02/11/2017,Technology,3109.1099999999997
+03/11/2017,Furniture,2524.05
+03/11/2017,Office Supplies,407.50100000000003
+03/11/2017,Technology,1605.386
+04/11/2017,Furniture,523.764
+04/11/2017,Office Supplies,473.76800000000003
+04/11/2017,Technology,9670.564
+05/11/2017,Furniture,396.024
+05/11/2017,Office Supplies,815.552
+05/11/2017,Technology,1143.488
+06/11/2017,Furniture,2681.362
+06/11/2017,Office Supplies,1481.478
+06/11/2017,Technology,125.91
+07/11/2017,Furniture,623.322
+07/11/2017,Office Supplies,160.892
+07/11/2017,Technology,1629.164
+08/11/2017,Furniture,274.2
+08/11/2017,Office Supplies,109.9
+09/11/2017,Furniture,883.018
+09/11/2017,Office Supplies,2250.7200000000003
+09/11/2017,Technology,1617.754
+10/11/2017,Furniture,1482.52
+10/11/2017,Office Supplies,1444.8280000000002
+10/11/2017,Technology,1080.2
+11/11/2017,Furniture,123.84
+11/11/2017,Office Supplies,1656.194
+11/11/2017,Technology,35.184
+12/11/2017,Furniture,250.304
+12/11/2017,Office Supplies,1375.124
+12/11/2017,Technology,1285.9579999999999
+13/11/2017,Furniture,2765.6532
+13/11/2017,Office Supplies,1971.528
+13/11/2017,Technology,1896.239
+14/11/2017,Furniture,321.568
+14/11/2017,Office Supplies,225.19799999999998
+14/11/2017,Technology,287.892
+15/11/2017,Furniture,559.2
+16/11/2017,Furniture,289.59
+16/11/2017,Office Supplies,1225.466
+16/11/2017,Technology,3240.178
+17/11/2017,Furniture,515.4928
+17/11/2017,Office Supplies,1722.21
+17/11/2017,Technology,11457.179999999998
+18/11/2017,Furniture,152.966
+18/11/2017,Office Supplies,1109.32
+18/11/2017,Technology,207.47000000000003
+19/11/2017,Furniture,2603.165
+19/11/2017,Office Supplies,4762.139
+19/11/2017,Technology,31.968
+20/11/2017,Furniture,880.862
+20/11/2017,Office Supplies,274.48199999999997
+20/11/2017,Technology,1832.93
+21/11/2017,Furniture,98.4
+21/11/2017,Office Supplies,382.64
+21/11/2017,Technology,1755.144
+22/11/2017,Office Supplies,35.712
+23/11/2017,Furniture,186.697
+23/11/2017,Office Supplies,445.964
+23/11/2017,Technology,520.448
+24/11/2017,Furniture,1734.028
+24/11/2017,Office Supplies,2832.945
+24/11/2017,Technology,392.668
+25/11/2017,Furniture,2639.309
+25/11/2017,Office Supplies,686.928
+25/11/2017,Technology,339.91999999999996
+26/11/2017,Furniture,1375.6000000000001
+26/11/2017,Office Supplies,463.89
+26/11/2017,Technology,3208.682
+27/11/2017,Furniture,65.78
+27/11/2017,Office Supplies,1185.016
+27/11/2017,Technology,367.45799999999997
+28/11/2017,Furniture,4659.14
+28/11/2017,Office Supplies,273.914
+28/11/2017,Technology,1979.89
+29/11/2017,Furniture,491.888
+30/11/2017,Furniture,4129.728
+30/11/2017,Office Supplies,1417.566
+30/11/2017,Technology,1097.9879999999998
+01/12/2017,Furniture,2542.292
+01/12/2017,Office Supplies,1371.45
+01/12/2017,Technology,1417.436
+02/12/2017,Furniture,3527.504
+02/12/2017,Office Supplies,2665.612
+02/12/2017,Technology,3758.066
+03/12/2017,Furniture,591.84
+03/12/2017,Office Supplies,447.932
+03/12/2017,Technology,364.07
+04/12/2017,Furniture,992.782
+04/12/2017,Office Supplies,199.138
+04/12/2017,Technology,1447.7179999999998
+05/12/2017,Furniture,321.48
+05/12/2017,Office Supplies,796.0600000000001
+05/12/2017,Technology,335.596
+06/12/2017,Office Supplies,10.68
+07/12/2017,Furniture,82.38
+07/12/2017,Office Supplies,2279.774
+07/12/2017,Technology,554.36
+08/12/2017,Furniture,3368.265
+08/12/2017,Office Supplies,2632.752
+08/12/2017,Technology,1642.0240000000001
+09/12/2017,Furniture,1927.233
+09/12/2017,Office Supplies,1447.079
+09/12/2017,Technology,2096.078
+10/12/2017,Furniture,2102.264
+10/12/2017,Office Supplies,973.235
+10/12/2017,Technology,798.06
+11/12/2017,Furniture,1448.529
+11/12/2017,Office Supplies,899.7460000000001
+11/12/2017,Technology,475.69
+13/12/2017,Furniture,489.01599999999996
+13/12/2017,Office Supplies,91.92000000000002
+14/12/2017,Furniture,1852.5320000000002
+14/12/2017,Office Supplies,320.73199999999997
+14/12/2017,Technology,1724.45
+15/12/2017,Furniture,22.77
+15/12/2017,Office Supplies,87.342
+15/12/2017,Technology,196.776
+16/12/2017,Furniture,197.712
+16/12/2017,Office Supplies,321.09
+16/12/2017,Technology,339.9
+17/12/2017,Furniture,629.26
+17/12/2017,Office Supplies,1398.498
+18/12/2017,Furniture,1380.6810000000003
+18/12/2017,Office Supplies,2115.91
+18/12/2017,Technology,149.32
+19/12/2017,Furniture,115.378
+19/12/2017,Office Supplies,1780.548
+20/12/2017,Office Supplies,377.736
+21/12/2017,Furniture,15.92
+21/12/2017,Office Supplies,1772.05
+21/12/2017,Technology,352.97
+22/12/2017,Furniture,4086.456
+22/12/2017,Office Supplies,1851.8129999999999
+22/12/2017,Technology,1503.752
+23/12/2017,Furniture,282.114
+23/12/2017,Office Supplies,1149.692
+23/12/2017,Technology,494.97
+24/12/2017,Furniture,1393.4940000000001
+24/12/2017,Office Supplies,1479.638
+24/12/2017,Technology,3359.9220000000005
+25/12/2017,Furniture,832.454
+25/12/2017,Office Supplies,1465.265
+25/12/2017,Technology,401.208
+26/12/2017,Office Supplies,814.5939999999999
+27/12/2017,Office Supplies,13.248
+27/12/2017,Technology,164.388
+28/12/2017,Furniture,551.2568
+28/12/2017,Office Supplies,1091.244
+28/12/2017,Technology,14.85
+29/12/2017,Furniture,2330.718
+29/12/2017,Office Supplies,282.44
+29/12/2017,Technology,302.376
+30/12/2017,Furniture,323.136
+30/12/2017,Office Supplies,299.724
+30/12/2017,Technology,90.93
