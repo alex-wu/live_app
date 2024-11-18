@@ -21,6 +21,8 @@ st.set_page_config(
     page_icon="📈"  # Favicon icon
 )
 
+#sdfsdfds
+d#test
 # Function to load the data
 @st.cache_data(persist=True)
 def load_data():
